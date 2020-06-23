@@ -1,2 +1,3 @@
 # digestible-wcag-sc-emails
-Contains one html email template per WCAG success criterion
+
+Contains scripts to generate one html email template per WCAG success criterion
