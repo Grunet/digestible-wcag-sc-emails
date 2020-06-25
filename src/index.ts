@@ -9,7 +9,6 @@ import {
 // @deno-types="https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/traverse/index.d.ts"
 import traverse from "https://dev.jspm.io/traverse@0.6.6";
 
-//TODO - create a "clean" script that will delete the "dist" folder
 //TODO - wrap this in a function instead of having it be immediately invoked (invoke it via a script instead)
 // deno run --allow-net --allow-write=../dist/ .\index.ts <- how to currently run this file
 
