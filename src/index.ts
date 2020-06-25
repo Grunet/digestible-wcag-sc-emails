@@ -15,9 +15,7 @@ async function createEmailsFromTemplate(outputPath: string) {
 
   await createDirectory(outputPath);
 
-  for (const emailInfo of emailInfoGenerator) {
-    const { id, html } = emailInfo;
-
+  for (const { id, html } of emailInfoGenerator) {
     await writeHtmlToFile(outputPath, { filename: id, content: html });
   }
 }
