@@ -45,10 +45,16 @@ traverse(wcagData).forEach(function (
 
 const templateHtml = await getTemplateHtml();
 
+try {
+  Deno.mkdir("../dist/");
+} catch (e) {
+  console.log("dist/ folder already exists");
+}
+
 for (const obj of successCritData) {
   const overrideInfo: IOverrideInfo = {
     "content": {
-      "email-preview-text": "", //TODO - figure out what this should be
+      "email-preview-text": `${obj.id} - ${obj.name}`,
       "header": obj.guidelineInfo.name,
       "section-header": `${obj.name} (${obj.level})`,
       "main-text": obj.contentMarkup,
