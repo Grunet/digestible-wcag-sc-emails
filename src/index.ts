@@ -16,11 +16,7 @@ async function createEmailsFromTemplate(outputPath: string) {
 
   const templateHtml = await getTemplateHtml();
 
-  try {
-    Deno.mkdir(outputPath);
-  } catch (e) {
-    console.log(`${outputPath} already exists`);
-  }
+  await createDirectory(outputPath);
 
   for (const obj of successCritData) {
     const overrideInfo: IOverrideInfo = {
@@ -89,6 +85,14 @@ async function getSuccessCriteriaData(): Promise<any[]> {
   });
 
   return successCritData;
+}
+
+async function createDirectory(path: string) {
+  try {
+    await Deno.mkdir(path, { recursive: true });
+  } catch (e) {
+    console.log(`${path} already exists`);
+  }
 }
 
 export { createEmailsFromTemplate };
