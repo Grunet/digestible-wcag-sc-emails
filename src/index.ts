@@ -50,8 +50,10 @@ async function createEmailsFromTemplate(outputPath: string) {
       })
       .getHtmlAsString();
 
-    const fileName = (obj.id as string).replace(/\./g, "-");
-    await Deno.writeTextFile(`${outputPath}${fileName}.html`, successCritHtml);
+    await writeHtmlToFile(
+      outputPath,
+      { filename: obj.id, content: successCritHtml },
+    );
   }
 }
 
@@ -93,6 +95,19 @@ async function createDirectory(path: string) {
   } catch (e) {
     console.log(`${path} already exists`);
   }
+}
+
+async function writeHtmlToFile(path: string, fileInfo: IFileInfo) {
+  const { filename, content } = fileInfo;
+
+  const safeFilename = filename.replace(/\./g, "-");
+
+  await Deno.writeTextFile(`${path}${safeFilename}.html`, content);
+}
+
+interface IFileInfo {
+  filename: string;
+  content: string;
 }
 
 export { createEmailsFromTemplate };
