@@ -12,33 +12,7 @@ import traverse from "https://dev.jspm.io/traverse@0.6.6";
 //TODO - break this up into at least 2 separate files (one for data prep and the other for the actual html generation)
 
 async function createEmailsFromTemplate(outputPath: string) {
-  const wcagData = await getWcagData();
-
-  const successCritData: any[] = [];
-
-  traverse(wcagData).forEach(function (
-    this: traverse.TraverseContext,
-    _value: any,
-  ) {
-    if (this?.key === "successCriteria") {
-      const clonedSuccessCritData = (this.node as any[]).map((obj: any) =>
-        JSON.parse(JSON.stringify(obj))
-      );
-
-      const additionalContext = {
-        guidelineInfo: {
-          name: this.parent?.node["name"],
-          paraText: this.parent?.node["paraText"],
-        },
-      };
-
-      clonedSuccessCritData.forEach((successCritDataObj: any) => {
-        Object.assign(successCritDataObj, additionalContext);
-      });
-
-      successCritData.push(...clonedSuccessCritData);
-    }
-  });
+  const successCritData = await getSuccessCriteriaData();
 
   const templateHtml = await getTemplateHtml();
 
@@ -83,6 +57,38 @@ async function createEmailsFromTemplate(outputPath: string) {
     const fileName = (obj.id as string).replace(/\./g, "-");
     await Deno.writeTextFile(`${outputPath}${fileName}.html`, successCritHtml);
   }
+}
+
+async function getSuccessCriteriaData(): Promise<any[]> {
+  const wcagData = await getWcagData();
+
+  const successCritData: any[] = [];
+
+  traverse(wcagData).forEach(function (
+    this: traverse.TraverseContext,
+    _value: any,
+  ) {
+    if (this?.key === "successCriteria") {
+      const clonedSuccessCritData = (this.node as any[]).map((obj: any) =>
+        JSON.parse(JSON.stringify(obj))
+      );
+
+      const additionalContext = {
+        guidelineInfo: {
+          name: this.parent?.node["name"],
+          paraText: this.parent?.node["paraText"],
+        },
+      };
+
+      clonedSuccessCritData.forEach((successCritDataObj: any) => {
+        Object.assign(successCritDataObj, additionalContext);
+      });
+
+      successCritData.push(...clonedSuccessCritData);
+    }
+  });
+
+  return successCritData;
 }
 
 export { createEmailsFromTemplate };
