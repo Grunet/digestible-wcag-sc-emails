@@ -11,7 +11,7 @@ import traverse from "https://dev.jspm.io/traverse@0.6.6";
 
 //TODO - break this up into at least 2 separate files (one for data prep and the other for the actual html generation)
 
-async function createEmailsFromTemplate() {
+async function createEmailsFromTemplate(outputPath: string) {
   const wcagData = await getWcagData();
 
   const successCritData: any[] = [];
@@ -43,9 +43,9 @@ async function createEmailsFromTemplate() {
   const templateHtml = await getTemplateHtml();
 
   try {
-    Deno.mkdir("../dist/");
+    Deno.mkdir(outputPath);
   } catch (e) {
-    console.log("dist/ folder already exists");
+    console.log(`${outputPath} already exists`);
   }
 
   for (const obj of successCritData) {
@@ -81,7 +81,7 @@ async function createEmailsFromTemplate() {
       .getHtmlAsString();
 
     const fileName = (obj.id as string).replace(/\./g, "-");
-    await Deno.writeTextFile(`../dist/${fileName}.html`, successCritHtml);
+    await Deno.writeTextFile(`${outputPath}${fileName}.html`, successCritHtml);
   }
 }
 

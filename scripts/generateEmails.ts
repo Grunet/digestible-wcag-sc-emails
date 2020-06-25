@@ -1,3 +1,3 @@
 import { createEmailsFromTemplate } from "../src/index.ts";
 
-await createEmailsFromTemplate();
+await createEmailsFromTemplate("../dist/");
