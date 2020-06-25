@@ -6,15 +6,14 @@ import { createDirectory, writeHtmlToFile } from "./saveFiles.ts";
 
 async function createEmailsFromTemplate(outputPath: string) {
   const successCriteriaData = await getSuccessCriteriaData();
-
   const templateHtml = await getTemplateHtml();
-
-  await createDirectory(outputPath);
 
   const emailInfoGenerator = createEmailInfoGenerator(
     successCriteriaData,
     templateHtml,
   );
+
+  await createDirectory(outputPath);
 
   for (const emailInfo of emailInfoGenerator) {
     const { id, html } = emailInfo;
