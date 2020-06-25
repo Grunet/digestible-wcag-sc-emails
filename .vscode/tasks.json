@@ -11,6 +11,15 @@
         "cwd": "${cwd}/scripts/"
       },
       "command": "deno run --allow-read=.,../dist/ --allow-write=../dist/ ./clean.ts"
+    },
+    {
+      "label": "generateEmails",
+      "group": "build",
+      "type": "shell",
+      "options": {
+        "cwd": "${cwd}/scripts/"
+      },
+      "command": "deno run --allow-net --allow-write=../dist/ ./generateEmails.ts"
     }
   ]
 }
