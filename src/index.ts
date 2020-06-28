@@ -37,13 +37,13 @@ async function __writeEmailInfoToFiles(
     filenames.push(filename);
   }
 
-  const fileMetadata = {
-    files: filenames.map((filename) => ({ name: filename })),
+  const emailMetadata = {
+    emails: filenames.map((name) => ({ filename: name })),
   };
 
   await writeJsObjToFile(
     outputPath,
-    { name: "fileListing", obj: fileMetadata },
+    { name: "emailMetadata", obj: emailMetadata },
   );
 }
 
