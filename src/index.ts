@@ -1,7 +1,7 @@
 import { getTemplateHtml } from "./deps.ts";
 
 import { getSuccessCriteriaData } from "./adaptWcagData.ts";
-import { createEmailInfoGenerator } from "./generateEmailInfo.ts";
+import { createEmailInfoGenerator, IEmailInfo } from "./generateEmailInfo.ts";
 import {
   createDirectory,
   writeHtmlToFile,
@@ -17,6 +17,13 @@ async function createEmailsFromTemplate(outputPath: string) {
     templateHtml,
   );
 
+  await __writeEmailInfoToFiles(outputPath, emailInfoGenerator);
+}
+
+async function __writeEmailInfoToFiles(
+  outputPath: string,
+  emailInfoGenerator: Generator<IEmailInfo>,
+) {
   await createDirectory(outputPath);
 
   const filenames: string[] = [];
