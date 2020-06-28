@@ -6,16 +6,22 @@ async function createDirectory(path: string) {
   }
 }
 
-async function writeHtmlToFile(path: string, fileInfo: IFileInfo) {
-  const { filename, content } = fileInfo;
+async function writeHtmlToFile(
+  path: string,
+  fileInfo: IFileInfo,
+): Promise<string> {
+  const { name, content } = fileInfo;
 
-  const safeFilename = filename.replace(/\./g, "-");
+  const safeFilename = name.replace(/\./g, "-");
+  const safeFilenameWithExt = `${safeFilename}.html`;
 
-  await Deno.writeTextFile(`${path}${safeFilename}.html`, content);
+  await Deno.writeTextFile(`${path}${safeFilenameWithExt}`, content);
+
+  return safeFilenameWithExt;
 }
 
 interface IFileInfo {
-  filename: string;
+  name: string;
   content: string;
 }
 
