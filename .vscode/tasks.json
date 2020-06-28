@@ -20,6 +20,16 @@
         "cwd": "${cwd}/scripts/"
       },
       "command": "deno run --allow-net --allow-write=../dist/ ./generateEmails.ts"
+    },
+    {
+      "label": "Run all scripts",
+      "group": "build",
+      "type": "shell",
+      "options": {
+        "cwd": "${cwd}/scripts/"
+      },
+      "dependsOn": ["clean", "generateEmails"],
+      "dependsOrder": "sequence"
     }
   ]
 }
