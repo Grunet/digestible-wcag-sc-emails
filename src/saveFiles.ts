@@ -8,7 +8,7 @@ async function createDirectory(path: string) {
 
 async function writeHtmlToFile(
   path: string,
-  fileInfo: IFileInfo,
+  fileInfo: IHtmlInfo,
 ): Promise<string> {
   const { name, content } = fileInfo;
 
@@ -20,9 +20,21 @@ async function writeHtmlToFile(
   return safeFilenameWithExt;
 }
 
-interface IFileInfo {
+interface IHtmlInfo {
   name: string;
   content: string;
 }
 
-export { createDirectory, writeHtmlToFile, IFileInfo };
+async function writeJsObjToFile(path: string, fileInfo: IJsonInfo) {
+  const { name, obj } = fileInfo;
+
+  const jsonToSave: string = JSON.stringify(obj, undefined, 4);
+  await Deno.writeTextFile(`${path}${name}.json`, jsonToSave);
+}
+
+interface IJsonInfo {
+  name: string;
+  obj: any;
+}
+
+export { createDirectory, writeHtmlToFile, writeJsObjToFile };

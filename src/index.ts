@@ -2,7 +2,11 @@ import { getTemplateHtml } from "./deps.ts";
 
 import { getSuccessCriteriaData } from "./adaptWcagData.ts";
 import { createEmailInfoGenerator } from "./generateEmailInfo.ts";
-import { createDirectory, writeHtmlToFile } from "./saveFiles.ts";
+import {
+  createDirectory,
+  writeHtmlToFile,
+  writeJsObjToFile,
+} from "./saveFiles.ts";
 
 async function createEmailsFromTemplate(outputPath: string) {
   const successCriteriaData = await getSuccessCriteriaData();
@@ -30,8 +34,10 @@ async function createEmailsFromTemplate(outputPath: string) {
     files: filenames.map((filename) => ({ name: filename })),
   };
 
-  const fileMetadataToSave: string = JSON.stringify(fileMetadata, undefined, 4);
-  Deno.writeTextFile(`${outputPath}fileListing.json`, fileMetadataToSave);
+  await writeJsObjToFile(
+    outputPath,
+    { name: "fileListing", obj: fileMetadata },
+  );
 }
 
 export { createEmailsFromTemplate };
