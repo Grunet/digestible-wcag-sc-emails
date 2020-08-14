@@ -39,6 +39,7 @@ function* createEmailInfoGenerator(
     yield {
       id: obj.id,
       html: successCritHtml,
+      subject: `${obj.name} - ${obj.id}`,
     };
   }
 }
@@ -46,6 +47,7 @@ function* createEmailInfoGenerator(
 interface IEmailInfo {
   id: string;
   html: string;
+  subject: string;
 }
 
 export { createEmailInfoGenerator, IEmailInfo };

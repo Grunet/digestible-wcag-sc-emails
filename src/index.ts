@@ -26,19 +26,22 @@ async function __writeEmailInfoToFiles(
 ) {
   await createDirectory(outputPath);
 
-  const filenames: string[] = [];
+  const emailSpecificMetadata = [];
 
-  for (const { id, html } of emailInfoGenerator) {
+  for (const { id, html, subject } of emailInfoGenerator) {
     const filename = await writeHtmlToFile(
       outputPath,
       { name: id, content: html },
     );
 
-    filenames.push(filename);
+    emailSpecificMetadata.push({
+      filename: filename,
+      subject: subject,
+    });
   }
 
   const emailMetadata = {
-    emails: filenames.map((name) => ({ filename: name })),
+    emails: emailSpecificMetadata,
   };
 
   await writeJsObjToFile(
