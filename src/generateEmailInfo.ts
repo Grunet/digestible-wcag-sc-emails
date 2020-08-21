@@ -9,7 +9,8 @@ function* createEmailInfoGenerator(
       "content": {
         "email-preview-text": `${obj.id} - ${obj.name}`,
         "header": obj.guidelineInfo.name,
-        "section-header": `${obj.name} (${obj.level})`,
+        "section-header": obj.name,
+        "section-header-subheading": `Level ${obj.level}`,
         "main-text": obj.contentMarkup,
         "contextual-text": obj.guidelineInfo.paraText,
       },
