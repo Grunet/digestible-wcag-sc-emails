@@ -5,9 +5,11 @@ function* createEmailInfoGenerator(
   templateHtml: string,
 ): Generator<IEmailInfo> {
   for (const obj of successCriteriaData) {
+    const contentAsPlainText = prepHtml(obj.contentMarkup).getHtmlAsPlainText();
+
     const overrideInfo: IOverrideInfo = {
       "content": {
-        "email-preview-text": `${obj.id} - ${obj.name}`,
+        "email-preview-text": contentAsPlainText,
         "header": obj.guidelineInfo.name,
         "section-header": obj.name,
         "section-header-subheading": `Level ${obj.level}`,
