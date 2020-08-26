@@ -13,7 +13,7 @@ function* createEmailInfoGenerator(
         "header": obj.guidelineInfo.name,
         "section-header": obj.name,
         "section-header-subheading": `Level ${obj.level}`,
-        "main-text": obj.contentMarkup,
+        "main-content": obj.contentMarkup,
         "contextual-text": obj.guidelineInfo.paraText,
       },
       "links": {
