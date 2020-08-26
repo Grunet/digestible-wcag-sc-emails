@@ -17,7 +17,7 @@ function* createEmailInfoGenerator(
         "contextual-text": obj.guidelineInfo.paraText,
       },
       "links": {
-        "more-info": obj.links.understand,
+        "more-info": obj.links.examples,
         "techniques": obj.links.meet,
       },
     };
