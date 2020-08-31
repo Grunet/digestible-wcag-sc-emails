@@ -15,6 +15,8 @@ function* createEmailInfoGenerator(
         "section-header-subheading": `Level ${obj.level}`,
         "main-content": obj.contentMarkup,
         "contextual-text": obj.guidelineInfo.paraText,
+        "example-content": obj.examples[0]?.content ??
+          `<p>My bot couldn't find any &#128546;. But the linked pages might still have ones it missed.</p>`,
       },
       "links": {
         "more-info": obj.links.examples,
