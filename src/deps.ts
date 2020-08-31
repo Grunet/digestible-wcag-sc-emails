@@ -19,3 +19,8 @@ async function getWcagData(): Promise<any> {
 }
 
 export { getTemplateHtml, IOverrideInfo, prepHtml, getWcagData };
+
+import fleschKincaid from "https://dev.jspm.io/flesch-kincaid@1.0.5";
+import syllable from "https://dev.jspm.io/syllable@3.6.0";
+
+export { fleschKincaid, syllable };
