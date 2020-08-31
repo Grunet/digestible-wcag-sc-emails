@@ -20,7 +20,6 @@ function* createEmailInfoGenerator(
       },
       "links": {
         "more-info": obj.links.examples,
-        "techniques": obj.links.meet,
       },
     };
 
