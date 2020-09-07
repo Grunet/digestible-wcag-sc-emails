@@ -30,14 +30,16 @@ async function __writeEmailInfoToFiles(
   const emailSpecificMetadata = [];
 
   for (const { id, html, text, subject } of emailInfoGenerator) {
-    const htmlFilename = await writeHtmlToFile(
-      outputPath,
-      { name: id, content: html },
-    );
-    const plainTextFilename = await writePlainTextToFile(
-      outputPath,
-      { name: id, content: text },
-    );
+    const [htmlFilename, plainTextFilename] = await Promise.all([
+      writeHtmlToFile(
+        outputPath,
+        { name: id, content: html },
+      ),
+      writePlainTextToFile(
+        outputPath,
+        { name: id, content: text },
+      ),
+    ]);
 
     emailSpecificMetadata.push({
       filename: htmlFilename,
