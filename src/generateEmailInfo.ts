@@ -13,24 +13,7 @@ function* createEmailInfoGenerator(
   templateHtml: string,
 ): Generator<IEmailInfo> {
   for (const obj of successCriteriaData) {
-    const contentAsPlainText = prepHtml(obj.contentMarkup).getHtmlAsPlainText();
-    const mostReadableExample = __getMostReadableExample(obj.examples);
-
-    const htmlOverrideInfo: IOverrideInfo = {
-      "content": {
-        "email-preview-text": contentAsPlainText,
-        "header": obj.guidelineInfo.name,
-        "section-header": obj.name,
-        "section-header-subheading": `Level ${obj.level}`,
-        "main-content": obj.contentMarkup,
-        "contextual-text": obj.guidelineInfo.paraText,
-        "example-content": mostReadableExample?.content ??
-          `<p>My bot couldn't find any &#128546;. But the linked pages might still have ones it missed.</p>`,
-      },
-      "links": {
-        "more-info": obj.links.examples,
-      },
-    };
+    const htmlOverrideInfo: IOverrideInfo = __getOverrideInfo(obj);
 
     const successCritHtml = __applyOverrides(templateHtml, htmlOverrideInfo)
       .getHtmlAsString();
@@ -51,6 +34,29 @@ function* createEmailInfoGenerator(
       subject: `${obj.name} - ${obj.id}`,
     };
   }
+}
+
+function __getOverrideInfo(obj: any): IOverrideInfo {
+  const contentAsPlainText = prepHtml(obj.contentMarkup).getHtmlAsPlainText();
+  const mostReadableExample = __getMostReadableExample(obj.examples);
+
+  const overrideInfo: IOverrideInfo = {
+    "content": {
+      "email-preview-text": contentAsPlainText,
+      "header": obj.guidelineInfo.name,
+      "section-header": obj.name,
+      "section-header-subheading": `Level ${obj.level}`,
+      "main-content": obj.contentMarkup,
+      "contextual-text": obj.guidelineInfo.paraText,
+      "example-content": mostReadableExample?.content ??
+        `<p>My bot couldn't find any &#128546;. But the linked pages might still have ones it missed.</p>`,
+    },
+    "links": {
+      "more-info": obj.links.examples,
+    },
+  };
+
+  return overrideInfo;
 }
 
 function __getMostReadableExample(
