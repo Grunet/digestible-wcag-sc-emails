@@ -1,0 +1,25 @@
+ A mechanism is available for identifying specific definitions of words or
+phrases used in an unusual or restricted way, including idioms and jargon. ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+UNUSUAL WORDS(LEVEL AAA)
+On accessible websites...
+
+A mechanism is available for identifying specific definitions of words or
+phrases used in an unusual or restricted way, including idioms and jargon. 
+
+These websites...
+
+Make text content readable and understandable.
+
+WHAT'S AN EXAMPLE?
+ Including definitions in the glossary. 
+
+WCAG 2.0 uses the word "text" in a specific way. Thus, when the word "text" is
+used within WCAG 2.0 it is linked to the definition of "text" provided in a
+glossary within the same Web page. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

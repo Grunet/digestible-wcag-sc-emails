@@ -1,0 +1,30 @@
+ The purpose of each input field collecting information about the user can be
+programmatically determined when: * The input field serves a purpose identified
+in the Input Purposes for User Interface Components section; and * The content
+is implemented using technologies with support for identifying the expected
+meaning for form input data. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
+IDENTIFY INPUT PURPOSE(LEVEL AA)
+On accessible websites...
+
+The purpose of each input field collecting information about the user can be
+programmatically determined when:
+
+ * The input field serves a purpose identified in the Input Purposes for User
+   Interface Components section; and
+ * The content is implemented using technologies with support for identifying
+   the expected meaning for form input data.
+
+These websites...
+
+Create content that can be presented in different ways (for example simpler
+layout) without losing information or structure.
+
+WHAT'S AN EXAMPLE?
+A contact form using icons
+A browser plugin to add icons inserts icons representing the person's name, home
+address, telephone number and email address to identify the input purpose
+visually. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

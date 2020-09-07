@@ -1,0 +1,28 @@
+ A mechanism is available to allow the purpose of each link to be identified
+from link text alone, except where the purpose of the link would be ambiguous to
+users in general. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+LINK PURPOSE (LINK ONLY)(LEVEL AAA)
+On accessible websites...
+
+A mechanism is available to allow the purpose of each link to be identified from
+link text alone, except where the purpose of the link would be ambiguous to
+users in general. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+ A list of book titles 
+
+A list of books is available in three formats: HTML, PDF, and mp3 (a recording
+of a person reading the book). The title of the book is followed by links to the
+different formats. The rendered text for each link is just the format type, but
+the text associated with each link includes the title as well as the format; for
+instance, "Gulliver's Travels, MP3." 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

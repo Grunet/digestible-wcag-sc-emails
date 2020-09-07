@@ -1,0 +1,39 @@
+ Content can be presented without loss of information or functionality, and
+without requiring scrolling in two dimensions for: * Vertical scrolling content
+at a width equivalent to 320 CSS pixels; * Horizontal scrolling content at a
+height equivalent to 256 CSS pixels. Except for parts of the content which
+require two-dimensional layout for usage or meaning. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ DISTINGUISHABLE
+REFLOW(LEVEL AA)
+On accessible websites...
+
+Content can be presented without loss of information or functionality, and
+without requiring scrolling in two dimensions for:
+
+ * Vertical scrolling content at a width equivalent to 320 CSS pixels;
+ * Horizontal scrolling content at a height equivalent to 256 CSS pixels.
+
+Except for parts of the content which require two-dimensional layout for usage
+or meaning.
+
+These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+EXAMPLE 1: RESPONSIVE DESIGN
+ Animation of zooming in on a responsive site. The content reflows to fit the
+screen. 
+
+Note that as the zoom percentage increases, the navigation changes first to hide
+options behind a "More" dropdown menu. As zooming continues, most navigation
+options are eventually behind a "hamburger" menu button. All the information and
+functionality is still available from this web page. There is no horizontal
+scrolling. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/reflow.html#examples] Web Content
+Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 27
+February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/, Latest version at
+https://www.w3.org/TR/WCAG22/)

@@ -1,0 +1,22 @@
+ An alternative for time-based media that presents equivalent information for
+live audio-only content is provided. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+TIME-BASED MEDIA
+AUDIO-ONLY (LIVE)(LEVEL AAA)
+On accessible websites...
+
+An alternative for time-based media that presents equivalent information for
+live audio-only content is provided. 
+
+These websites...
+
+Provide alternatives for time-based media.
+
+WHAT'S AN EXAMPLE?
+A live radio play of a fringe theatre group is being broadcast to the Web. As
+the actors stick largely to a set script, and the budget for the program is
+small, the producers provide a link (with the playwright's permission) to the
+script of the play. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

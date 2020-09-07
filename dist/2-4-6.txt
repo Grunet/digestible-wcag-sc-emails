@@ -1,0 +1,23 @@
+ Headings and labels describe topic or purpose. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ NAVIGABLE
+HEADINGS AND LABELS(LEVEL AA)
+On accessible websites...
+
+Headings and labels describe topic or purpose. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+ A form asking the name of the user 
+
+A form asks the name of the user. It consists of two input fields to ask for the
+first and last name. The first field is labeled "First name", the second is
+labeled "Last name"." 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html#examples] 
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

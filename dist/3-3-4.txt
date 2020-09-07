@@ -1,0 +1,38 @@
+ For Web pages that cause legal commitments or financial transactions for the
+user to occur, that modify or delete user-controllable data in data storage
+systems, or that submit user test responses, at least one of the following is
+true: ReversibleSubmissions are reversible. CheckedData entered by the user is
+checked for input errors and the user is provided an opportunity to correct
+them. ConfirmedA mechanism is available for reviewing, confirming, and
+correcting information before finalizing the submission. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
+ERROR PREVENTION (LEGAL, FINANCIAL, DATA)(LEVEL AA)
+On accessible websites...
+
+For Web pages that cause legal commitments or financial transactions for the
+user to occur, that modify or delete user-controllable data in data storage
+systems, or that submit user test responses, at least one of the following is
+true: 
+
+ReversibleSubmissions are reversible. CheckedData entered by the user is checked
+for input errors and the user is provided an opportunity to correct them. 
+ConfirmedA mechanism is available for reviewing, confirming, and correcting
+information before finalizing the submission. These websites...
+
+Help users avoid and correct mistakes.
+
+WHAT'S AN EXAMPLE?
+ Stock sale: 
+
+A financial services Web site lets users buy and sell stock online. When a user
+submits an order to buy or sell stock, the system checks to see whether or not
+the market is open. If it is after hours, the user is alerted that the
+transaction will be an after-hours transaction, is told about the risks of
+trading outside of regular market hours, and given the opportunity to cancel or
+confirm the order. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

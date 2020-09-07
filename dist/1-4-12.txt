@@ -1,0 +1,44 @@
+ In content implemented using markup languages that support the following text
+style properties, no loss of content or functionality occurs by setting all of
+the following and by changing no other style property: * Line height (line
+spacing) to at least 1.5 times the font size; * Spacing following paragraphs to
+at least 2 times the font size; * Letter spacing (tracking) to at least 0.12
+times the font size; * Word spacing to at least 0.16 times the font size.
+Exception: Human languages and scripts that do not make use of one or more of
+these text style properties in written text can conform using only the
+properties that exist for that combination of language and script. ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+TEXT SPACING(LEVEL AA)
+On accessible websites...
+
+In content implemented using markup languages that support the following text
+style properties, no loss of content or functionality occurs by setting all of
+the following and by changing no other style property:
+
+ * Line height (line spacing) to at least 1.5 times the font size;
+ * Spacing following paragraphs to at least 2 times the font size;
+ * Letter spacing (tracking) to at least 0.12 times the font size;
+ * Word spacing to at least 0.16 times the font size.
+
+Exception: Human languages and scripts that do not make use of one or more of
+these text style properties in written text can conform using only the
+properties that exist for that combination of language and script.
+
+These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+EXAMPLES
+When spacing is be overridden to the SC's metrics:
+
+ 1. Text fits within the bounds of its containing box without being cut off.
+ 2. Text fits within the bounds of its containing box without overlapping other
+    boxes.
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

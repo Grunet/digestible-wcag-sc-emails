@@ -1,0 +1,27 @@
+ Functionality that can be operated by device motion or user motion can also be
+operated by user interface components and responding to the motion can be
+disabled to prevent accidental actuation, except when: Supported Interface The
+motion is used to operate functionality through an accessibility supported
+interface; Essential The motion is essential for the function and doing so would
+invalidate the activity. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
+MOTION ACTUATION(LEVEL A)
+On accessible websites...
+
+Functionality that can be operated by device motion or user motion can also be
+operated by user interface components and responding to the motion can be
+disabled to prevent accidental actuation, except when:
+
+Supported Interface The motion is used to operate functionality through an
+accessibility supported interface; Essential The motion is essential for the
+function and doing so would invalidate the activity. These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+A user can tilt a device to advance to the next or a previous page. Buttons are
+also provided to perform the same function. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

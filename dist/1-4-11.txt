@@ -1,0 +1,49 @@
+ The visual presentation of the following have a contrast ratio of at least 3:1
+against adjacent color(s): User Interface Components Visual information required
+to identify user interface components and states, except for inactive components
+or where the appearance of the component is determined by the user agent and not
+modified by the author; Graphical Objects Parts of graphics required to
+understand the content, except when a particular presentation of graphics is
+essential to the information being conveyed. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+DISTINGUISHABLE
+NON-TEXT CONTRAST(LEVEL AA)
+On accessible websites...
+
+The visual presentation of the following have a contrast ratio of at least 3:1
+against adjacent color(s):
+
+User Interface Components Visual information required to identify user interface
+components and states, except for inactive components or where the appearance of
+the component is determined by the user agent and not modified by the author; 
+Graphical Objects Parts of graphics required to understand the content, except
+when a particular presentation of graphics is essential to the information being
+conveyed. These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+PIE CHARTS
+Pie charts make a good case study for the graphical objects part of this success
+criteria, the following pie charts are intended to convey the proportion of
+market share each browser has. Please Note: The actual figures are made up,
+these are not actual market shares. 
+
+Failing pie chart [img/graphics-contrast_pie-chart_fail.png] Figure 11 Fail: The pie chart has labels for each slice (so passes 1.4.1 Use of Color),
+but in order to understand the proportions of the slices you must discern the
+edges of the slices (the graphical objects conveying essential information), and
+the contrast between the slices is not 3:1 or greater. 
+
+Not applicable pie chart [img/graphics-contrast_pie-chart_na.png] Figure 12 Not
+applicable: The pie chart has visible labels and values that convey equivalent
+information to the graphical objects (the pie slices). 
+
+Passing pie chart [img/graphics-contrast_pie-chart_pass.png] Figure 13 Pass: The pie chart has visible labels, and sufficient contrast around and
+between the slices of the pie chart (the graphical objects). A darker border has
+been added around the yellow slice in order to achieve the contrast level. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html#examples] 
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

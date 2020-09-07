@@ -1,0 +1,25 @@
+ If a Web page can be navigated sequentially and the navigation sequences affect
+meaning or operation, focusable components receive focus in an order that
+preserves meaning and operability. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+FOCUS ORDER(LEVEL A)
+On accessible websites...
+
+If a Web page can be navigated sequentially and the navigation sequences affect
+meaning or operation, focusable components receive focus in an order that
+preserves meaning and operability. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+An HTML Web page is created with the left hand navigation occurring in the HTML
+after the main body content, and styled with CSS to appear on the left hand side
+of the page. This is done to allow focus to move to the main body content first
+without requiring tabIndex attributes or JavaScript. 
+
+Note I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

@@ -1,0 +1,49 @@
+ In content implemented using markup languages, status messages can be
+programmatically determined through role or properties such that they can be
+presented to the user by assistive technologies without receiving focus. ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ COMPATIBLE
+STATUS MESSAGES(LEVEL AA)
+On accessible websites...
+
+In content implemented using markup languages, status messages can be
+programmatically determined through role or properties such that they can be
+presented to the user by assistive technologies without receiving focus.
+
+These websites...
+
+Maximize compatibility with current and future user agents, including assistive
+technologies.
+
+WHAT'S AN EXAMPLE?
+STATUS MESSAGE EXAMPLES
+ 1. After a user presses a Search button, the page content is updated to include
+    the results of the search, which are displayed in a section below the Search
+    button. The change to content also includes the message "5 results returned"
+    near the top of this new content. This text is given an appropriate role for
+    a status message. A screen reader announces, "Five results returned". 
+ 2. After a user presses an Add to Shopping Cart button, a section of content
+    near the Shopping Cart icon adds the text "5 items". A screen reader
+    announces "Five items" or "Shopping cart, five items". 
+ 3. After a user enters incorrect text in an input called Postal Code, a message
+    appears above the input reading "Invalid entry". The screen reader
+    announces, "Invalid entry" or "Postal code, invalid entry". 
+ 4. After a user activates a process, an icon symbolizing 'busy' appears on the
+    screen. The screen reader announces "application busy". 
+ 5. An application displays a progressbar to indicate the status of an upgrade.
+    The element is assigned a suitable role. The screen reader provides
+    intermittent announcements of the progress. 
+ 6. After a user submits a form, text is added to the existing form which reads,
+    "Your form was successfully submitted." The screen reader announces the same
+    message. 
+ 7. After a user unsuccessfully fills in a form because some of the data is in
+    the incorrect format, text is added to the existing form which reads "5
+    errors on page". The screen reader announces the same message. 
+ 8. After a user puts a photo in an album in an online photo app, a snackbar
+    [https://material.io/design/components/snackbars.html#] displays the message
+    "Saved in 'Wedding' album", which is also read by a screen reader. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

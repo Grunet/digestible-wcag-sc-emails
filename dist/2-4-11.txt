@@ -1,0 +1,37 @@
+ [New] When a User Interface Component displays a visible keyboard focus, all of
+the following are true: * Minimum area: The focus indication area is greater
+than or equal to the longest side of the bounding rectangle of the focused
+control, times 2 CSS pixels. * Focus contrast: Color changes used to indicate
+focus have at least a 3:1 contrast ratio with the colors changed from the
+unfocused control. * Contrast or thickness: The focus indication area has a 3:1
+contrast ratio against all adjacent colors for the minimum area or greater, or
+has a thickness of at least 2 CSS pixels. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+NAVIGABLE
+FOCUS VISIBLE (ENHANCED)(LEVEL AA)
+On accessible websites...
+
+[New]
+
+When a User Interface Component displays a visible keyboard focus, all of the
+following are true:
+
+ * Minimum area: The focus indication area is greater than or equal to the
+   longest side of the bounding rectangle of the focused control, times 2 CSS
+   pixels.
+ * Focus contrast: Color changes used to indicate focus have at least a 3:1
+   contrast ratio with the colors changed from the unfocused control.
+ * Contrast or thickness: The focus indication area has a 3:1 contrast ratio
+   against all adjacent colors for the minimum area or greater, or has a
+   thickness of at least 2 CSS pixels.
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+When links receive focus, an outline is displayed around the link that contrasts
+with the background adjacent to the link. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/focus-visible-enhanced.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

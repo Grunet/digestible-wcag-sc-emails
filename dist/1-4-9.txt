@@ -1,0 +1,28 @@
+ Images of text are only used for pure decoration or where a particular
+presentation of text is essential to the information being conveyed. ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+IMAGES OF TEXT (NO EXCEPTION)(LEVEL AAA)
+On accessible websites...
+
+Images of text are only used for pure decoration or where a particular
+presentation of text is essential to the information being conveyed. 
+
+These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+ A quote 
+
+A Web page contains a quote. The quote itself is presented as italicized text,
+indented from the left margin. The name of the person to whom the quote is
+attributed is below the quote with 1.5x the line space and further indented from
+the left margin. CSS is used to position the text; set the spacing between
+lines; as well as display the text's font family, size, color and decoration. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/images-of-text-no-exception.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

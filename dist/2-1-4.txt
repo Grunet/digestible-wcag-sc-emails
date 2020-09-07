@@ -1,0 +1,37 @@
+ If a keyboard shortcut is implemented in content using only letter (including
+upper- and lower-case letters), punctuation, number, or symbol characters, then
+at least one of the following is true: Turn off A mechanism is available to turn
+the shortcut off; Remap A mechanism is available to remap the shortcut to
+include one or more non-printable keyboard keys (e.g., Ctrl, Alt); Active only
+on focus The keyboard shortcut for a user interface component is only active
+when that component has focus. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ KEYBOARD
+ACCESSIBLE
+CHARACTER KEY SHORTCUTS(LEVEL A)
+On accessible websites...
+
+If a keyboard shortcut is implemented in content using only letter (including
+upper- and lower-case letters), punctuation, number, or symbol characters, then
+at least one of the following is true:
+
+Turn off A mechanism is available to turn the shortcut off; Remap A mechanism is
+available to remap the shortcut to include one or more non-printable keyboard
+keys (e.g., Ctrl, Alt); Active only on focus The keyboard shortcut for a user
+interface component is only active when that component has focus. These
+websites...
+
+Make all functionality available from a keyboard.
+
+WHAT'S AN EXAMPLE?
+ALTERNATE CONTROL
+A keyboard-only user is in a long issues thread. While reading the thread she
+accidentally hits the S key, which moves focus to the search bar at the top of
+the document. This causes her to lose her place and her train of thought.
+However, a mechanism is provided to allow users to change character-key
+shortcuts. She changes the shortcut to include another key so she can avoid
+future interruptions. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

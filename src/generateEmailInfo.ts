@@ -4,6 +4,7 @@ import { getReadingLevel } from "./readingLevelAdapter.ts";
 interface IEmailInfo {
   id: string;
   html: string;
+  text: string;
   subject: string;
 }
 
@@ -48,9 +49,13 @@ function* createEmailInfoGenerator(
       })
       .getHtmlAsString();
 
+    const successCritPlainText = prepHtml(successCritHtml)
+      .getHtmlAsPlainText();
+
     yield {
       id: obj.id,
       html: successCritHtml,
+      text: successCritPlainText,
       subject: `${obj.name} - ${obj.id}`,
     };
   }

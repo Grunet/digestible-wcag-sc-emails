@@ -1,0 +1,27 @@
+ Where pauses in foreground audio are insufficient to allow audio descriptions
+to convey the sense of the video, extended audio description is provided for all
+prerecorded video content in synchronized media. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ TIME-BASED MEDIA
+EXTENDED AUDIO DESCRIPTION (PRERECORDED)(LEVEL AAA)
+On accessible websites...
+
+Where pauses in foreground audio are insufficient to allow audio descriptions to
+convey the sense of the video, extended audio description is provided for all
+prerecorded video content in synchronized media. 
+
+These websites...
+
+Provide alternatives for time-based media.
+
+WHAT'S AN EXAMPLE?
+Example 1. Video of a lecture. A physics professor is giving a lecture. He makes
+freehand sketches on the whiteboard, speaking rapidly as he draws. As soon as he
+has finished discussing one problem, he erases the drawing and makes another
+sketch while continuing to speak and gesture with his other hand. The video is
+paused between problems, and extended audio description of the professor's
+drawings and gestures is provided; the video is then resumed. I still don't
+really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

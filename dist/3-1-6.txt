@@ -1,0 +1,27 @@
+ A mechanism is available for identifying specific pronunciation of words where
+meaning of the words, in context, is ambiguous without knowing the
+pronunciation. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+PRONUNCIATION(LEVEL AAA)
+On accessible websites...
+
+A mechanism is available for identifying specific pronunciation of words where
+meaning of the words, in context, is ambiguous without knowing the
+pronunciation. 
+
+These websites...
+
+Make text content readable and understandable.
+
+WHAT'S AN EXAMPLE?
+ Providing sound files of the pronunciation. 
+
+A document includes some words whose meaning cannot be determined without
+knowing the correct pronunciation. Each word is linked to a sound file that
+gives the correct pronunciation. Users can select these links to find out how to
+pronounce the words. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/pronunciation.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

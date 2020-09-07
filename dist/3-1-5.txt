@@ -1,0 +1,48 @@
+ When text requires reading ability more advanced than the lower secondary
+education level after removal of proper names and titles, supplemental content,
+or a version that does not require reading ability more advanced than the lower
+secondary education level, is available. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+READABLE
+READING LEVEL(LEVEL AAA)
+On accessible websites...
+
+When text requires reading ability more advanced than the lower secondary
+education level after removal of proper names and titles, supplemental content,
+or a version that does not require reading ability more advanced than the lower
+secondary education level, is available. 
+
+These websites...
+
+Make text content readable and understandable.
+
+WHAT'S AN EXAMPLE?
+ Science information that requires a reading ability at the lower secondary
+education level. 
+
+The text below (116 words total) requires a reading ability of grade 4.2 in the
+United States according to the Flesch-Kincaid formula. In the US, grade 4.2 is
+at the primary education level. 
+
+Science is about testing — and about looking closely. Some scientists use
+microscopes to take a close look. We're going to use a simple piece of paper. 
+
+Here's what you do: Print this page and cut out the square to make a "window"
+one inch square. (It's easiest to fold the page in half before you cut.) 
+
+Choose something interesting: a tree trunk, a leaf, flower, the soil surface, or
+a slice of soil from a shovel. 
+
+Put your window over the thing and look at it closely. Take your time — this is
+not a race. 
+
+To help you see more details, draw a picture of what's inside your square.
+
+Now let's think about what you've found. 
+
+(Source: Howard Hughes Medical Institute "CoolScience for Kids" Project) 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

@@ -1,0 +1,23 @@
+ Content does not restrict its view and operation to a single display
+orientation, such as portrait or landscape, unless a specific display
+orientation is essential. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
+ORIENTATION(LEVEL AA)
+On accessible websites...
+
+Content does not restrict its view and operation to a single display
+orientation, such as portrait or landscape, unless a specific display
+orientation is essential.
+
+These websites...
+
+Create content that can be presented in different ways (for example simpler
+layout) without losing information or structure.
+
+WHAT'S AN EXAMPLE?
+Example 3: eReader web app
+An eReader web app can display the contents of a book in both portrait and
+landscape orientation. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/orientation.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

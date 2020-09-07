@@ -1,0 +1,23 @@
+ Information about the user's location within a set of Web pages is available. ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+LOCATION(LEVEL AAA)
+On accessible websites...
+
+Information about the user's location within a set of Web pages is available. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+ Links to help user determine their location in a site 
+
+A research group is part of an educational department at a university. The
+group's home page links to the department home page and the university's home
+page. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/location.html#examples] Web Content
+Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 27
+February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/, Latest version at
+https://www.w3.org/TR/WCAG22/)

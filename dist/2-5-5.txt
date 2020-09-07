@@ -1,0 +1,32 @@
+ The size of the target for pointer inputs is at least 44 by 44 CSS pixels
+except when: Equivalent The target is available through an equivalent link or
+control on the same page that is at least 44 by 44 CSS pixels;Inline The target
+is in a sentence or block of text;User Agent Control The size of the target is
+determined by the user agent and is not modified by the author;Essential A
+particular presentation of the target is essential to the information being
+conveyed. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
+TARGET SIZE(LEVEL AAA)
+On accessible websites...
+
+The size of the target for pointer inputs is at least 44 by 44 CSS pixels except
+when:
+
+Equivalent The target is available through an equivalent link or control on the
+same page that is at least 44 by 44 CSS pixels;Inline The target is in a
+sentence or block of text;User Agent Control The size of the target is
+determined by the user agent and is not modified by the author;Essential A
+particular presentation of the target is essential to the information being
+conveyed. These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+Example 3: Anchor Link
+The target is an in-page link and the target is less than 44 by 44 CSS pixels.
+Users can scroll the screen using browser functions so target size does not need
+to be met. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/target-size.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

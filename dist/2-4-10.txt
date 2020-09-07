@@ -1,0 +1,19 @@
+ Section headings are used to organize the content. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ NAVIGABLE
+SECTION HEADINGS(LEVEL AAA)
+On accessible websites...
+
+Section headings are used to organize the content. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+A Web application contains a settings page that is divided into groups of
+related settings. Each section contains a heading describing the class of
+settings. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

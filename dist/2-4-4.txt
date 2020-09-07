@@ -1,0 +1,28 @@
+ The purpose of each link can be determined from the link text alone or from the
+link text together with its programmatically determined link context, except
+where the purpose of the link would be ambiguous to users in general. ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+LINK PURPOSE (IN CONTEXT)(LEVEL A)
+On accessible websites...
+
+The purpose of each link can be determined from the link text alone or from the
+link text together with its programmatically determined link context, except
+where the purpose of the link would be ambiguous to users in general. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+ News article summaries 
+
+A Web page contains a collection of news articles. The main page lists the first
+few sentences of each article, followed by a "Read more" link. A screen reader
+command to read the current paragraph provides the context to interpret the
+purpose of the link. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

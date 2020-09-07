@@ -1,0 +1,30 @@
+ The human language of each passage or phrase in the content can be
+programmatically determined except for proper names, technical terms, words of
+indeterminate language, and words or phrases that have become part of the
+vernacular of the immediately surrounding text. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ READABLE
+LANGUAGE OF PARTS(LEVEL AA)
+On accessible websites...
+
+The human language of each passage or phrase in the content can be
+programmatically determined except for proper names, technical terms, words of
+indeterminate language, and words or phrases that have become part of the
+vernacular of the immediately surrounding text. 
+
+These websites...
+
+Make text content readable and understandable.
+
+WHAT'S AN EXAMPLE?
+ Alternative language links 
+
+An HTML Web page includes links to versions of the page in other languages
+(e.g., Deutsch, Français, Nederlands, Castellano, etc.). The text of each link
+is the name of the language, in that language. The language of each link is
+indicated via a lang attribute. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html#examples] 
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

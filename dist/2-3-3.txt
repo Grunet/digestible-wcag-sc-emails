@@ -1,0 +1,23 @@
+ Motion animation triggered by interaction can be disabled, unless the animation
+is essential to the functionality or the information being conveyed. ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ SEIZURES AND PHYSICAL REACTIONS
+ANIMATION FROM INTERACTIONS(LEVEL AAA)
+On accessible websites...
+
+Motion animation triggered by interaction can be disabled, unless the animation
+is essential to the functionality or the information being conveyed.
+
+These websites...
+
+Do not design content in a way that is known to cause seizures or physical
+reactions.
+
+WHAT'S AN EXAMPLE?
+Essential animation:  * A web application provides a feature to author animated
+   sequences. As part of this tool the author needs to preview the animation. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

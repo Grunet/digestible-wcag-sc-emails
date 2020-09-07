@@ -1,0 +1,25 @@
+ More than one way is available to locate a Web page within a set of Web pages
+except where the Web Page is the result of, or a step in, a process. ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+MULTIPLE WAYS(LEVEL AA)
+On accessible websites...
+
+More than one way is available to locate a Web page within a set of Web pages
+except where the Web Page is the result of, or a step in, a process. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+ Where content is a result of a process or task - Search engine results. 
+
+A search engine provides the search results based on user input. There is no
+other way to locate the search results except to perform the search process
+itself. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

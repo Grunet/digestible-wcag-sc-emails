@@ -1,0 +1,22 @@
+ Web pages do not contain anything that flashes more than three times in any one
+second period. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ SEIZURES AND PHYSICAL
+REACTIONS
+THREE FLASHES(LEVEL AAA)
+On accessible websites...
+
+Web pages do not contain anything that flashes more than three times in any one
+second period. 
+
+These websites...
+
+Do not design content in a way that is known to cause seizures or physical
+reactions.
+
+WHAT'S AN EXAMPLE?
+A movie with a scene involving very bright lightning flashes is edited so that
+the lightning only flashes three times in any one second period. I still don't
+really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

@@ -1,0 +1,32 @@
+ For functionality that can be operated using a single pointer, at least one of
+the following is true: No Down-Event The down-event of the pointer is not used
+to execute any part of the function; Abort or Undo Completion of the function is
+on the up-event, and a mechanism is available to abort the function before
+completion or to undo the function after completion; Up Reversal The up-event
+reverses any outcome of the preceding down-event; Essential Completing the
+function on the down-event is essential. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+INPUT MODALITIES
+POINTER CANCELLATION(LEVEL A)
+On accessible websites...
+
+For functionality that can be operated using a single pointer, at least one of
+the following is true:
+
+No Down-Event The down-event of the pointer is not used to execute any part of
+the function; Abort or Undo Completion of the function is on the up-event, and a
+mechanism is available to abort the function before completion or to undo the
+function after completion; Up Reversal The up-event reverses any outcome of the
+preceding down-event; Essential Completing the function on the down-event is
+essential. These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+For interface elements that have a single tap or long press as input, the
+corresponding event is triggered when the finger is lifted inside that element. 
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html#examples] 
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

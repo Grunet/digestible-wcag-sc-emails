@@ -1,0 +1,32 @@
+ If keyboard focus can be moved to a component of the page using a keyboard
+interface, then focus can be moved away from that component using only a
+keyboard interface, and, if it requires more than unmodified arrow or tab keys
+or other standard exit methods, the user is advised of the method for moving
+focus away. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ KEYBOARD ACCESSIBLE
+NO KEYBOARD TRAP(LEVEL A)
+On accessible websites...
+
+If keyboard focus can be moved to a component of the page using a keyboard
+interface, then focus can be moved away from that component using only a
+keyboard interface, and, if it requires more than unmodified arrow or tab keys
+or other standard exit methods, the user is advised of the method for moving
+focus away. 
+
+These websites...
+
+Make all functionality available from a keyboard.
+
+WHAT'S AN EXAMPLE?
+ A modal dialog box 
+
+A Web application brings up a dialog box. At the bottom of the dialog are two
+buttons, Cancel and OK. When the dialog has been opened, focus is trapped within
+the dialog; tabbing from the last control in the dialog takes focus to the first
+control in the dialog. The dialog is dismissed by activating the Cancel button
+or the OK button. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

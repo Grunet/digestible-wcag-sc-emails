@@ -1,0 +1,21 @@
+ Captions are provided for all live audio content in synchronized media. ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
+CAPTIONS (LIVE)(LEVEL AA)
+On accessible websites...
+
+Captions are provided for all live audio content in synchronized media. 
+
+These websites...
+
+Provide alternatives for time-based media.
+
+WHAT'S AN EXAMPLE?
+ A Web cast 
+
+A news organization provides a live, captioned Web cast. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

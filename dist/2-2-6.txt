@@ -1,0 +1,23 @@
+ Users are warned of the duration of any user inactivity that could cause data
+loss, unless the data is preserved for more than 20 hours when the user does not
+take any actions. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
+TIMEOUTS(LEVEL AAA)
+On accessible websites...
+
+Users are warned of the duration of any user inactivity that could cause data
+loss, unless the data is preserved for more than 20 hours when the user does not
+take any actions.
+
+These websites...
+
+Provide users enough time to read and use content.
+
+WHAT'S AN EXAMPLE?
+While making a purchase on an e-commerce Web site, the information input by the
+user is stored for more than 20 hours. This helps ensure that if they need to
+stop working for a while that they are more likely to be able to continue the
+purchase when they return. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html#examples] Web Content
+Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 27
+February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/, Latest version at
+https://www.w3.org/TR/WCAG22/)

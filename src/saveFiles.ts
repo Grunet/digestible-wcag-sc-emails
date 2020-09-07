@@ -6,23 +6,46 @@ async function createDirectory(path: string) {
   }
 }
 
+interface IFileInfo {
+  name: string;
+  content: string;
+}
+
 async function writeHtmlToFile(
   path: string,
-  fileInfo: IHtmlInfo,
+  fileInfo: IFileInfo,
 ): Promise<string> {
-  const { name, content } = fileInfo;
+  return __writeTextFile(path, { ...fileInfo, extension: "html" });
+}
+
+async function writePlainTextToFile(
+  path: string,
+  fileInfo: IFileInfo,
+): Promise<string> {
+  return __writeTextFile(path, { ...fileInfo, extension: "txt" });
+}
+
+interface IExtendedFileInfo extends IFileInfo {
+  extension: string;
+}
+
+async function __writeTextFile(
+  path: string,
+  fileInfo: IExtendedFileInfo,
+): Promise<string> {
+  const { name, content, extension } = fileInfo;
 
   const safeFilename = name.replace(/\./g, "-");
-  const safeFilenameWithExt = `${safeFilename}.html`;
+  const safeFilenameWithExt = `${safeFilename}.${extension}`;
 
   await Deno.writeTextFile(`${path}${safeFilenameWithExt}`, content);
 
   return safeFilenameWithExt;
 }
 
-interface IHtmlInfo {
+interface IJsonInfo {
   name: string;
-  content: string;
+  obj: any;
 }
 
 async function writeJsObjToFile(path: string, fileInfo: IJsonInfo) {
@@ -32,9 +55,9 @@ async function writeJsObjToFile(path: string, fileInfo: IJsonInfo) {
   await Deno.writeTextFile(`${path}${name}.json`, jsonToSave);
 }
 
-interface IJsonInfo {
-  name: string;
-  obj: any;
-}
-
-export { createDirectory, writeHtmlToFile, writeJsObjToFile };
+export {
+  createDirectory,
+  writeHtmlToFile,
+  writePlainTextToFile,
+  writeJsObjToFile,
+};

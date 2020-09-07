@@ -1,0 +1,37 @@
+ For prerecorded audio-only and prerecorded video-only media, the following are
+true, except when the audio or video is a media alternative for text and is
+clearly labeled as such: Prerecorded Audio-only An alternative for time-based
+media is provided that presents equivalent information for prerecorded
+audio-only content. Prerecorded Video-only Either an alternative for time-based
+media or an audio track is provided that presents equivalent information for
+prerecorded video-only content. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED
+MEDIA
+AUDIO-ONLY AND VIDEO-ONLY (PRERECORDED)(LEVEL A)
+On accessible websites...
+
+For prerecorded audio-only and prerecorded video-only media, the following are
+true, except when the audio or video is a media alternative for text and is
+clearly labeled as such: 
+
+Prerecorded Audio-only An alternative for time-based media is provided that
+presents equivalent information for prerecorded audio-only content. 
+
+Prerecorded Video-only Either an alternative for time-based media or an audio
+track is provided that presents equivalent information for prerecorded
+video-only content. 
+
+These websites...
+
+Provide alternatives for time-based media.
+
+WHAT'S AN EXAMPLE?
+ An audio recording of a speech 
+
+The link to an audio clip says, "Chairman's speech to the assembly." A link to a
+text transcript is provided immediately after the link to the audio clip. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

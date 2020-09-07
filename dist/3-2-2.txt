@@ -1,0 +1,25 @@
+ Changing the setting of any user interface component does not automatically
+cause a change of context unless the user has been advised of the behavior
+before using the component. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+ON INPUT(LEVEL A)
+On accessible websites...
+
+Changing the setting of any user interface component does not automatically
+cause a change of context unless the user has been advised of the behavior
+before using the component. 
+
+These websites...
+
+Make Web pages appear and operate in predictable ways.
+
+WHAT'S AN EXAMPLE?
+A form contains fields representing US phone numbers. All of the numbers have a
+three digit area code followed by a three digit prefix and finally a four digit
+number, and each part of the phone number is entered into a separate field. When
+the user completes the entry of one field the focus automatically moves to the
+next field of the phone number. This behavior of phone fields is described for
+the user at the beginning of the form. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/on-input.html#examples] Web Content
+Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 27
+February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/, Latest version at
+https://www.w3.org/TR/WCAG22/)

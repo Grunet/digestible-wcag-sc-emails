@@ -1,0 +1,44 @@
+ For moving, blinking, scrolling, or auto-updating information, all of the
+following are true: Moving, blinking, scrolling For any moving, blinking or
+scrolling information that (1) starts automatically, (2) lasts more than five
+seconds, and (3) is presented in parallel with other content, there is a
+mechanism for the user to pause, stop, or hide it unless the movement, blinking,
+or scrolling is part of an activity where it is essential; and Auto-updating For
+any auto-updating information that (1) starts automatically and (2) is presented
+in parallel with other content, there is a mechanism for the user to pause,
+stop, or hide it or to control the frequency of the update unless the
+auto-updating is part of an activity where it is essential. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
+PAUSE, STOP, HIDE(LEVEL A)
+On accessible websites...
+
+For moving, blinking, scrolling, or auto-updating information, all of the
+following are true: 
+
+Moving, blinking, scrolling For any moving, blinking or scrolling information
+that (1) starts automatically, (2) lasts more than five seconds, and (3) is
+presented in parallel with other content, there is a mechanism for the user to
+pause, stop, or hide it unless the movement, blinking, or scrolling is part of
+an activity where it is essential; and 
+
+Auto-updating For any auto-updating information that (1) starts automatically
+and (2) is presented in parallel with other content, there is a mechanism for
+the user to pause, stop, or hide it or to control the frequency of the update
+unless the auto-updating is part of an activity where it is essential. 
+
+These websites...
+
+Provide users enough time to read and use content.
+
+WHAT'S AN EXAMPLE?
+ A form prompt 
+
+A form blinks an arrow near the submit button if a user finishes filling out the
+form but does not activate the submit button. The blinking stops after 5
+seconds. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

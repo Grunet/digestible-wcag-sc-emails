@@ -1,0 +1,28 @@
+ Information, structure, and relationships conveyed through presentation can be
+programmatically determined or are available in text. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ADAPTABLE
+INFO AND RELATIONSHIPS(LEVEL A)
+On accessible websites...
+
+Information, structure, and relationships conveyed through presentation can be
+programmatically determined or are available in text. 
+
+These websites...
+
+Create content that can be presented in different ways (for example simpler
+layout) without losing information or structure.
+
+WHAT'S AN EXAMPLE?
+ A form with required fields 
+
+A form contains several required fields. The labels for the required fields are
+displayed in red. In addition, at the end of each label is an asterisk
+character, *. The instructions for completing the form indicate that "all
+required fields are displayed in red and marked with an asterisk *", followed by
+an example. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

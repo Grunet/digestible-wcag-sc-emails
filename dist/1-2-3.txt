@@ -1,0 +1,41 @@
+ An alternative for time-based media or audio description of the prerecorded
+video content is provided for synchronized media, except when the media is a
+media alternative for text and is clearly labeled as such. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
+AUDIO DESCRIPTION OR MEDIA ALTERNATIVE (PRERECORDED)(LEVEL A)
+On accessible websites...
+
+An alternative for time-based media or audio description of the prerecorded
+video content is provided for synchronized media, except when the media is a
+media alternative for text and is clearly labeled as such. 
+
+These websites...
+
+Provide alternatives for time-based media.
+
+WHAT'S AN EXAMPLE?
+ A movie with audio description. 
+
+ Describer: A title, "Teaching Evolution Case Studies. Bonnie Chen." A teacher
+shows photographs of birds with long, thin beaks. 
+
+ Bonnie Chen: "These photos were all taken at the Everglades." 
+
+ Describer: The teacher hands each student two flat, thin wooden sticks. 
+
+ Bonnie Chen: "Today you will pretend to be a species of wading bird that has a
+beak like this." 
+
+ Describer: The teacher holds two of the sticks to her mouth making the shape of
+a beak. 
+
+Transcript of audio based on the first few minutes of " Teaching Evolution Case
+Studies, Bonnie Chen
+[http://www.pbs.org/wgbh/evolution/educators/teachstuds/tvideos.html]"
+(copyright WGBH and Clear Blue Sky Productions, Inc.) 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

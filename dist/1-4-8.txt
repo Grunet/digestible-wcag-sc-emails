@@ -1,0 +1,42 @@
+ For the visual presentation of blocks of text, a mechanism is available to
+achieve the following: * Foreground and background colors can be selected by the
+user. * Width is no more than 80 characters or glyphs (40 if CJK). * Text is not
+justified (aligned to both the left and the right margins). * Line spacing
+(leading) is at least space-and-a-half within paragraphs, and paragraph spacing
+is at least 1.5 times larger than the line spacing. * Text can be resized
+without assistive technology up to 200 percent in a way that does not require
+the user to scroll horizontally to read a line of text on a full-screen window. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+VISUAL PRESENTATION(LEVEL AAA)
+On accessible websites...
+
+For the visual presentation of blocks of text, a mechanism is available to
+achieve the following: 
+
+ * Foreground and background colors can be selected by the user.
+ * Width is no more than 80 characters or glyphs (40 if CJK).
+ * Text is not justified (aligned to both the left and the right margins).
+ * Line spacing (leading) is at least space-and-a-half within paragraphs, and
+   paragraph spacing is at least 1.5 times larger than the line spacing.
+ * Text can be resized without assistive technology up to 200 percent in a way
+   that does not require the user to scroll horizontally to read a line of text
+   on a full-screen window.
+
+These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+EXAMPLES
+The following images show examples of single-spacing, space-and-a-half and
+double-spaced text in a paragraph. 
+
+Examples of glyphs include "A", "→" (an arrow symbol), and "さ" (a Japanese
+character).
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation.html#examples] 
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

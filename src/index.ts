@@ -5,6 +5,7 @@ import { createEmailInfoGenerator, IEmailInfo } from "./generateEmailInfo.ts";
 import {
   createDirectory,
   writeHtmlToFile,
+  writePlainTextToFile,
   writeJsObjToFile,
 } from "./saveFiles.ts";
 
@@ -28,14 +29,22 @@ async function __writeEmailInfoToFiles(
 
   const emailSpecificMetadata = [];
 
-  for (const { id, html, subject } of emailInfoGenerator) {
-    const filename = await writeHtmlToFile(
+  for (const { id, html, text, subject } of emailInfoGenerator) {
+    const htmlFilename = await writeHtmlToFile(
       outputPath,
       { name: id, content: html },
     );
+    const plainTextFilename = await writePlainTextToFile(
+      outputPath,
+      { name: id, content: text },
+    );
 
     emailSpecificMetadata.push({
-      filename: filename,
+      filename: htmlFilename,
+      filenames: {
+        html: htmlFilename,
+        plainText: plainTextFilename,
+      },
       subject: subject,
     });
   }

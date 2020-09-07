@@ -1,0 +1,24 @@
+ A mechanism for identifying the expanded form or meaning of abbreviations is
+available. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+ABBREVIATIONS(LEVEL AAA)
+On accessible websites...
+
+A mechanism for identifying the expanded form or meaning of abbreviations is
+available. 
+
+These websites...
+
+Make text content readable and understandable.
+
+WHAT'S AN EXAMPLE?
+ A dictionary search form. 
+
+A Web site includes a search form provided by an on-line acronym service. Users
+enter an acronym and the form returns a list of possible expansions from the
+sources that it searched. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

@@ -1,0 +1,23 @@
+ Web content does not restrict use of input modalities available on a platform
+except where the restriction is essential, required to ensure the security of
+the content, or required to respect user settings. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ INPUT MODALITIES
+CONCURRENT INPUT MECHANISMS(LEVEL AAA)
+On accessible websites...
+
+Web content does not restrict use of input modalities available on a platform
+except where the restriction is essential, required to ensure the security of
+the content, or required to respect user settings.
+
+These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+A user opens a menu with a mouse, and then navigates between the menu items with
+arrow keys. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

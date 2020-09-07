@@ -1,0 +1,27 @@
+ When any user interface component receives focus, it does not initiate a change
+of context. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+ON FOCUS(LEVEL A)
+On accessible websites...
+
+When any user interface component receives focus, it does not initiate a change
+of context. 
+
+These websites...
+
+Make Web pages appear and operate in predictable ways.
+
+WHAT'S AN EXAMPLE?
+ Example 1: A dropdown menu 
+
+A dropdown menu on a page allows users to choose between jump destinations. If
+the person uses the keyboard to move down to a choice and activates it (with a
+spacebar or enter key) it will jump to a new page. However, if the person moves
+down to a choice and either hits the escape or the tab key to move out of the
+pulldown menu – it does not jump to a new screen as the focus shifts out of the
+dropdown menu. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html#examples] Web Content
+Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 27
+February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/, Latest version at
+https://www.w3.org/TR/WCAG22/)

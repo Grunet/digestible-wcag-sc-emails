@@ -1,0 +1,25 @@
+ Navigational mechanisms that are repeated on multiple Web pages within a set of
+Web pages occur in the same relative order each time they are repeated, unless a
+change is initiated by the user. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+CONSISTENT NAVIGATION(LEVEL AA)
+On accessible websites...
+
+Navigational mechanisms that are repeated on multiple Web pages within a set of
+Web pages occur in the same relative order each time they are repeated, unless a
+change is initiated by the user. 
+
+These websites...
+
+Make Web pages appear and operate in predictable ways.
+
+WHAT'S AN EXAMPLE?
+ A consistently located control 
+
+A search field is the last item on every Web page in a site. Users can quickly
+locate the search function. 
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html#examples]
+ Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

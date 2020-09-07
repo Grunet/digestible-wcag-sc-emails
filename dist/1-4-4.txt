@@ -1,0 +1,24 @@
+ Except for captions and images of text, text can be resized without assistive
+technology up to 200 percent without loss of content or functionality. ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+RESIZE TEXT(LEVEL AA)
+On accessible websites...
+
+Except for captions and images of text, text can be resized without assistive
+technology up to 200 percent without loss of content or functionality. 
+
+These websites...
+
+Make it easier for users to see and hear content including separating foreground
+from background.
+
+WHAT'S AN EXAMPLE?
+A user with vision impairments increases the text size on a Web page in a
+browser from 1 em to 1.2 ems. While the user could not read the text at the
+smaller size, she can read the larger text. All the information on the page is
+still displayed when the larger font is used for the text. I still don't really
+understand
+[https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

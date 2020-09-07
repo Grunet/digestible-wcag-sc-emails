@@ -1,0 +1,23 @@
+ [Changed] Any keyboard operable user interface has a mode of operation where
+the keyboard focus indicator is visible. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+NAVIGABLE
+FOCUS VISIBLE(LEVEL A)
+On accessible websites...
+
+[Changed]
+
+Any keyboard operable user interface has a mode of operation where the keyboard
+focus indicator is visible. 
+
+These websites...
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+WHAT'S AN EXAMPLE?
+When text fields receive focus, a vertical bar is displayed in the field,
+indicating that the user can insert text, OR all of the text is highlighted,
+indicating that the user can type over the text. I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)

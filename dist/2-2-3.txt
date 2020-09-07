@@ -1,0 +1,23 @@
+ Timing is not an essential part of the event or activity presented by the
+content, except for non-interactive synchronized media and real-time events. ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
+NO TIMING(LEVEL AAA)
+On accessible websites...
+
+Timing is not an essential part of the event or activity presented by the
+content, except for non-interactive synchronized media and real-time events. 
+
+These websites...
+
+Provide users enough time to read and use content.
+
+WHAT'S AN EXAMPLE?
+ A game is designed so that users take turns rather than competing in real-time 
+
+One party can pause the game without invalidating the competitive aspect of it.
+
+I still don't really understand
+[https://www.w3.org/WAI/WCAG21/Understanding/no-timing.html#examples] Web
+Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
+Latest version at https://www.w3.org/TR/WCAG22/)
