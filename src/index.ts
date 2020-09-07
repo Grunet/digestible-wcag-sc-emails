@@ -42,7 +42,6 @@ async function __writeEmailInfoToFiles(
     ]);
 
     emailSpecificMetadata.push({
-      filename: htmlFilename,
       filenames: {
         html: htmlFilename,
         plainText: plainTextFilename,
