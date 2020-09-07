@@ -1,7 +1,4 @@
- Web content does not restrict use of input modalities available on a platform
-except where the restriction is essential, required to ensure the security of
-the content, or required to respect user settings. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ INPUT MODALITIES
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
 CONCURRENT INPUT MECHANISMS(LEVEL AAA)
 On accessible websites...
 

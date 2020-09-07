@@ -1,8 +1,4 @@
- The purpose of each input field collecting information about the user can be
-programmatically determined when: * The input field serves a purpose identified
-in the Input Purposes for User Interface Components section; and * The content
-is implemented using technologies with support for identifying the expected
-meaning for form input data. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
 IDENTIFY INPUT PURPOSE(LEVEL AA)
 On accessible websites...
 

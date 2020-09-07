@@ -1,7 +1,4 @@
- An alternative for time-based media or audio description of the prerecorded
-video content is provided for synchronized media, except when the media is a
-media alternative for text and is clearly labeled as such. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
 AUDIO DESCRIPTION OR MEDIA ALTERNATIVE (PRERECORDED)(LEVEL A)
 On accessible websites...
 

@@ -1,6 +1,4 @@
- Users are warned of the duration of any user inactivity that could cause data
-loss, unless the data is preserved for more than 20 hours when the user does not
-take any actions. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
 TIMEOUTS(LEVEL AAA)
 On accessible websites...
 

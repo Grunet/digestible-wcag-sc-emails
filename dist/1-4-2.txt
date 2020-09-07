@@ -1,7 +1,4 @@
- If any audio on a Web page plays automatically for more than 3 seconds, either
-a mechanism is available to pause or stop the audio, or a mechanism is available
-to control audio volume independently from the overall system volume level. ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
 AUDIO CONTROL(LEVEL A)
 On accessible websites...
 

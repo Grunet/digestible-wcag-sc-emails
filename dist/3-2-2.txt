@@ -1,6 +1,4 @@
- Changing the setting of any user interface component does not automatically
-cause a change of context unless the user has been advised of the behavior
-before using the component. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
 ON INPUT(LEVEL A)
 On accessible websites...
 

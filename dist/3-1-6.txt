@@ -1,6 +1,4 @@
- A mechanism is available for identifying specific pronunciation of words where
-meaning of the words, in context, is ambiguous without knowing the
-pronunciation. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
 PRONUNCIATION(LEVEL AAA)
 On accessible websites...
 

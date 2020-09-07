@@ -1,11 +1,4 @@
- For Web pages that cause legal commitments or financial transactions for the
-user to occur, that modify or delete user-controllable data in data storage
-systems, or that submit user test responses, at least one of the following is
-true: ReversibleSubmissions are reversible. CheckedData entered by the user is
-checked for input errors and the user is provided an opportunity to correct
-them. ConfirmedA mechanism is available for reviewing, confirming, and
-correcting information before finalizing the submission. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
 ERROR PREVENTION (LEGAL, FINANCIAL, DATA)(LEVEL AA)
 On accessible websites...
 

@@ -1,5 +1,4 @@
- The default human language of each Web page can be programmatically determined. 
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
 LANGUAGE OF PAGE(LEVEL A)
 On accessible websites...
 

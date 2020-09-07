@@ -1,5 +1,4 @@
- When any user interface component receives focus, it does not initiate a change
-of context. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
 ON FOCUS(LEVEL A)
 On accessible websites...
 

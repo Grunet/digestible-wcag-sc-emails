@@ -1,6 +1,4 @@
- Content does not restrict its view and operation to a single display
-orientation, such as portrait or landscape, unless a specific display
-orientation is essential. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
 ORIENTATION(LEVEL AA)
 On accessible websites...
 

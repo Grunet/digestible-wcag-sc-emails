@@ -1,9 +1,4 @@
- For Web pages that require the user to submit information, at least one of the
-following is true: ReversibleSubmissions are reversible. CheckedData entered by
-the user is checked for input errors and the user is provided an opportunity to
-correct them. ConfirmedA mechanism is available for reviewing, confirming, and
-correcting information before finalizing the submission. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
 ERROR PREVENTION (ALL)(LEVEL AAA)
 On accessible websites...
 

@@ -1,5 +1,4 @@
- Section headings are used to organize the content. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 SECTION HEADINGS(LEVEL AAA)
 On accessible websites...
 

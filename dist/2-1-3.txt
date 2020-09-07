@@ -1,6 +1,4 @@
- All functionality of the content is operable through a keyboard interface
-without requiring specific timings for individual keystrokes. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ KEYBOARD ACCESSIBLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ KEYBOARD ACCESSIBLE
 KEYBOARD (NO EXCEPTION)(LEVEL AAA)
 On accessible websites...
 

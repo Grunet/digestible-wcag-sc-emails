@@ -1,6 +1,4 @@
- Color is not used as the only visual means of conveying information, indicating
-an action, prompting a response, or distinguishing a visual element. ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
 USE OF COLOR(LEVEL A)
 On accessible websites...
 

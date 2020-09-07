@@ -1,7 +1,4 @@
- Where pauses in foreground audio are insufficient to allow audio descriptions
-to convey the sense of the video, extended audio description is provided for all
-prerecorded video content in synchronized media. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ TIME-BASED MEDIA
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
 EXTENDED AUDIO DESCRIPTION (PRERECORDED)(LEVEL AAA)
 On accessible websites...
 

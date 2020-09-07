@@ -1,6 +1,4 @@
- A mechanism is available to allow the purpose of each link to be identified
-from link text alone, except where the purpose of the link would be ambiguous to
-users in general. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 LINK PURPOSE (LINK ONLY)(LEVEL AAA)
 On accessible websites...
 

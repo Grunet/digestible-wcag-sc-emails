@@ -1,5 +1,4 @@
- Web pages have titles that describe topic or purpose. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 PAGE TITLED(LEVEL A)
 On accessible websites...
 

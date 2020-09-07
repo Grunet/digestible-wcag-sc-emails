@@ -1,6 +1,4 @@
- Web pages do not contain anything that flashes more than three times in any one
-second period, or the flash is below the general flash and red flash thresholds. 
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ SEIZURES AND PHYSICAL REACTIONS
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ SEIZURES AND PHYSICAL REACTIONS
 THREE FLASHES OR BELOW THRESHOLD(LEVEL A)
 On accessible websites...
 

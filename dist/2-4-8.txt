@@ -1,5 +1,4 @@
- Information about the user's location within a set of Web pages is available. ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 LOCATION(LEVEL AAA)
 On accessible websites...
 

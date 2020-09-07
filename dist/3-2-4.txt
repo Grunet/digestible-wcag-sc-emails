@@ -1,5 +1,4 @@
- Components that have the same functionality within a set of Web pages are
-identified consistently. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ PREDICTABLE
 CONSISTENT IDENTIFICATION(LEVEL AA)
 On accessible websites...
 

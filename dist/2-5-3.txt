@@ -1,6 +1,4 @@
- For user interface components with labels that include text or images of text,
-the name contains the text that is presented visually. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
 LABEL IN NAME(LEVEL A)
 On accessible websites...
 

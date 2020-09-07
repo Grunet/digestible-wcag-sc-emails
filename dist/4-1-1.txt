@@ -1,8 +1,4 @@
- In content implemented using markup languages, elements have complete start and
-end tags, elements are nested according to their specifications, elements do not
-contain duplicate attributes, and any IDs are unique, except where the
-specifications allow these features. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-COMPATIBLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ COMPATIBLE
 PARSING(LEVEL A)
 On accessible websites...
 

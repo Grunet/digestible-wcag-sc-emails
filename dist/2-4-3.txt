@@ -1,6 +1,4 @@
- If a Web page can be navigated sequentially and the navigation sequences affect
-meaning or operation, focusable components receive focus in an order that
-preserves meaning and operability. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 FOCUS ORDER(LEVEL A)
 On accessible websites...
 

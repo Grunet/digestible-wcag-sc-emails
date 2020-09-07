@@ -1,6 +1,4 @@
- When the sequence in which content is presented affects its meaning, a correct
-reading sequence can be programmatically determined. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ADAPTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
 MEANINGFUL SEQUENCE(LEVEL A)
 On accessible websites...
 

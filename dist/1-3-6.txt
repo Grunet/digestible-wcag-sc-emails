@@ -1,6 +1,4 @@
- In content implemented using markup languages, the purpose of User Interface
-Components, icons, and regions can be programmatically determined. ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
 IDENTIFY PURPOSE(LEVEL AAA)
 On accessible websites...
 

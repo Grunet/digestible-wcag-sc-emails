@@ -1,5 +1,4 @@
- A mechanism is available to bypass blocks of content that are repeated on
-multiple Web pages. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 BYPASS BLOCKS(LEVEL A)
 On accessible websites...
 

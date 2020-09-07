@@ -1,7 +1,4 @@
- The purpose of each link can be determined from the link text alone or from the
-link text together with its programmatically determined link context, except
-where the purpose of the link would be ambiguous to users in general. ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 LINK PURPOSE (IN CONTEXT)(LEVEL A)
 On accessible websites...
 

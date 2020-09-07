@@ -1,6 +1,4 @@
- Except for captions and images of text, text can be resized without assistive
-technology up to 200 percent without loss of content or functionality. ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ DISTINGUISHABLE
 RESIZE TEXT(LEVEL AA)
 On accessible websites...
 

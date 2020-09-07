@@ -1,5 +1,4 @@
- Context-sensitive help is available. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT
-ASSISTANCE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
 HELP(LEVEL AAA)
 On accessible websites...
 

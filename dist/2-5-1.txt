@@ -1,7 +1,4 @@
- All functionality that uses multipoint or path-based gestures for operation can
-be operated with a single pointer without a path-based gesture, unless a
-multipoint or path-based gesture is essential. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ INPUT MODALITIES
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT MODALITIES
 POINTER GESTURES(LEVEL A)
 On accessible websites...
 

@@ -1,5 +1,4 @@
- A mechanism for identifying the expanded form or meaning of abbreviations is
-available. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ READABLE
 ABBREVIATIONS(LEVEL AAA)
 On accessible websites...
 

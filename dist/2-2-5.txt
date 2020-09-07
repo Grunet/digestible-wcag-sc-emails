@@ -1,6 +1,4 @@
- When an authenticated session expires, the user can continue the activity
-without loss of data after re-authenticating. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ENOUGH TIME
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
 RE-AUTHENTICATING(LEVEL AAA)
 On accessible websites...
 

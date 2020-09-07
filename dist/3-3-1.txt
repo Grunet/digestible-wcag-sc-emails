@@ -1,6 +1,4 @@
- If an input error is automatically detected, the item that is in error is
-identified and the error is described to the user in text. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
 ERROR IDENTIFICATION(LEVEL A)
 On accessible websites...
 

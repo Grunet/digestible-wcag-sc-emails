@@ -1,6 +1,4 @@
- Timing is not an essential part of the event or activity presented by the
-content, except for non-interactive synchronized media and real-time events. ‌ ‌
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ENOUGH TIME
 NO TIMING(LEVEL AAA)
 On accessible websites...
 

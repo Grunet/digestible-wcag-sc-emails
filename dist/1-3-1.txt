@@ -1,6 +1,4 @@
- Information, structure, and relationships conveyed through presentation can be
-programmatically determined or are available in text. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-‌ ‌ ‌ ‌ ‌ ADAPTABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ADAPTABLE
 INFO AND RELATIONSHIPS(LEVEL A)
 On accessible websites...
 

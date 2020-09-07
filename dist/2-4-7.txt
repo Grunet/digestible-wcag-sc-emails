@@ -1,6 +1,4 @@
- [Changed] Any keyboard operable user interface has a mode of operation where
-the keyboard focus indicator is visible. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 FOCUS VISIBLE(LEVEL A)
 On accessible websites...
 

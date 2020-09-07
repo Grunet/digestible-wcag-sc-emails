@@ -1,4 +1,4 @@
-import { IOverrideInfo, prepHtml } from "./deps.ts";
+import { IOverrideInfo, prepHtml, deepCopyObj } from "./deps.ts";
 import { getReadingLevel } from "./readingLevelAdapter.ts";
 
 interface IEmailInfo {
@@ -16,7 +16,7 @@ function* createEmailInfoGenerator(
     const contentAsPlainText = prepHtml(obj.contentMarkup).getHtmlAsPlainText();
     const mostReadableExample = __getMostReadableExample(obj.examples);
 
-    const overrideInfo: IOverrideInfo = {
+    const htmlOverrideInfo: IOverrideInfo = {
       "content": {
         "email-preview-text": contentAsPlainText,
         "header": obj.guidelineInfo.name,
@@ -32,24 +32,16 @@ function* createEmailInfoGenerator(
       },
     };
 
-    const adaptedOverrideInfo = {
-      "content": overrideInfo["content"],
-      "links": Object.fromEntries(
-        Object.entries(overrideInfo["links"]).map((
-          [k, v],
-        ) => [k, { "href": v }]),
-      ),
-    };
-
-    const successCritHtml = prepHtml(templateHtml)
-      .overwriteSlots({
-        overrides: adaptedOverrideInfo["content"],
-      }).overwriteAttributes({
-        overrides: adaptedOverrideInfo["links"],
-      })
+    const successCritHtml = __applyOverrides(templateHtml, htmlOverrideInfo)
       .getHtmlAsString();
 
-    const successCritPlainText = prepHtml(successCritHtml)
+    const plainTextOverrideInfo: IOverrideInfo = deepCopyObj(htmlOverrideInfo);
+    plainTextOverrideInfo["content"]["email-preview-text"] = "";
+
+    const successCritPlainText = __applyOverrides(
+      templateHtml,
+      plainTextOverrideInfo,
+    )
       .getHtmlAsPlainText();
 
     yield {
@@ -81,6 +73,31 @@ function __findIndexOfMostReadableOption(options: string[]): number {
   );
 
   return readingLevels.indexOf(Math.min(...readingLevels));
+}
+
+function __applyOverrides(templateHtml: string, overrideInfo: IOverrideInfo) {
+  const adaptedOverrideInfo = __adaptOverrideInfo(overrideInfo);
+
+  return prepHtml(templateHtml)
+    .overwriteSlots({
+      overrides: adaptedOverrideInfo["content"],
+    })
+    .overwriteAttributes({
+      overrides: adaptedOverrideInfo["links"],
+    });
+}
+
+function __adaptOverrideInfo(overrideInfo: IOverrideInfo) {
+  const overrideInfoDeepClone = deepCopyObj(overrideInfo);
+
+  return {
+    "content": overrideInfoDeepClone["content"],
+    "links": Object.fromEntries(
+      Object.entries(overrideInfoDeepClone["links"]).map((
+        [k, v],
+      ) => [k, { "href": v }]),
+    ),
+  };
 }
 
 export { createEmailInfoGenerator, IEmailInfo };

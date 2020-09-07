@@ -1,7 +1,4 @@
- If an input error is automatically detected and suggestions for correction are
-known, then the suggestions are provided to the user, unless it would jeopardize
-the security or purpose of the content. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-INPUT ASSISTANCE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ INPUT ASSISTANCE
 ERROR SUGGESTION(LEVEL AA)
 On accessible websites...
 

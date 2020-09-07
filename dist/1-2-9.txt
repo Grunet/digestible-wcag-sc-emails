@@ -1,6 +1,4 @@
- An alternative for time-based media that presents equivalent information for
-live audio-only content is provided. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-TIME-BASED MEDIA
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ TIME-BASED MEDIA
 AUDIO-ONLY (LIVE)(LEVEL AAA)
 On accessible websites...
 

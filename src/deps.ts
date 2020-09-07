@@ -24,3 +24,8 @@ import fleschKincaid from "https://dev.jspm.io/flesch-kincaid@1.0.5";
 import syllable from "https://dev.jspm.io/syllable@3.6.0";
 
 export { fleschKincaid, syllable };
+
+function deepCopyObj<T>(obj: T): T {
+  return JSON.parse(JSON.stringify(obj)); //This doesn't take into account all subtleties. Replace with a library as needed.
+}
+export { deepCopyObj };

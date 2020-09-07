@@ -1,12 +1,4 @@
- [New] When a User Interface Component displays a visible keyboard focus, all of
-the following are true: * Minimum area: The focus indication area is greater
-than or equal to the longest side of the bounding rectangle of the focused
-control, times 2 CSS pixels. * Focus contrast: Color changes used to indicate
-focus have at least a 3:1 contrast ratio with the colors changed from the
-unfocused control. * Contrast or thickness: The focus indication area has a 3:1
-contrast ratio against all adjacent colors for the minimum area or greater, or
-has a thickness of at least 2 CSS pixels. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-NAVIGABLE
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ NAVIGABLE
 FOCUS VISIBLE (ENHANCED)(LEVEL AA)
 On accessible websites...
 
