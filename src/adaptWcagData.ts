@@ -20,6 +20,7 @@ async function getSuccessCriteriaData(): Promise<any[]> {
 
       const additionalContext = {
         guidelineInfo: {
+          id: this.parent?.node["id"],
           name: this.parent?.node["name"],
           paraText: this.parent?.node["paraText"],
         },

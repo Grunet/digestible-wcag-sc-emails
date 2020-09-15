@@ -43,7 +43,7 @@ function __getOverrideInfo(obj: any): IOverrideInfo {
   const overrideInfo: IOverrideInfo = {
     "content": {
       "email-preview-text": contentAsPlainText,
-      "header": obj.guidelineInfo.name,
+      "header": `${obj.guidelineInfo.id} - ${obj.guidelineInfo.name}`,
       "section-header": obj.name,
       "section-header-subheading": `Level ${obj.level}`,
       "main-content": obj.contentMarkup,
