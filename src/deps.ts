@@ -18,10 +18,14 @@ async function getWcagData(): Promise<any> {
   return obj;
 }
 
-export { getTemplateHtml, IOverrideInfo, prepHtml, getWcagData };
+export { getTemplateHtml, prepHtml, getWcagData };
+export type { IOverrideInfo };
 
-import fleschKincaid from "https://dev.jspm.io/flesch-kincaid@1.0.5";
-import syllable from "https://dev.jspm.io/syllable@3.6.0";
+import untypedFleschKincaid from "https://dev.jspm.io/flesch-kincaid@1.0.5";
+const fleschKincaid : Function = untypedFleschKincaid as Function; 
+
+import untypedSyllable from "https://dev.jspm.io/syllable@3.6.0";
+const syllable : Function = untypedSyllable as Function;
 
 export { fleschKincaid, syllable };
 

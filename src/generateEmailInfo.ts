@@ -106,4 +106,5 @@ function __adaptOverrideInfo(overrideInfo: IOverrideInfo) {
   };
 }
 
-export { createEmailInfoGenerator, IEmailInfo };
+export { createEmailInfoGenerator }
+export type { IEmailInfo }
