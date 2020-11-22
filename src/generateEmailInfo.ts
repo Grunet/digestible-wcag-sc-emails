@@ -1,4 +1,5 @@
 import { IOverrideInfo, prepHtml, deepCopyObj } from "./deps.ts";
+import { getLinkForAction, Action } from "./websiteAdapter.ts";
 import { getReadingLevel } from "./readingLevelAdapter.ts";
 
 interface IEmailInfo {
@@ -53,6 +54,7 @@ function __getOverrideInfo(obj: any): IOverrideInfo {
     },
     "links": {
       "more-info": obj.links.examples,
+      "unsubscribe": getLinkForAction(Action.Unsubscribe)
     },
   };
 
