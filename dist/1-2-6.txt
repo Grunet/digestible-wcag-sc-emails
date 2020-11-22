@@ -19,4 +19,5 @@ understand
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/) 
 
-Unsubscribe [https://dwcag.org/unsubscribe]
+Share Feedback [https://dwcag.org/#feedback-section] Unsubscribe
+[https://dwcag.org/unsubscribe]
