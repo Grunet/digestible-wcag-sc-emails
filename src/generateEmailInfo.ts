@@ -54,6 +54,7 @@ function __getOverrideInfo(obj: any): IOverrideInfo {
     },
     "links": {
       "more-info": obj.links.examples,
+      "subscribe": getLinkForAction(Action.Subscribe),
       "contact-us": getLinkForAction(Action.Contact),
       "unsubscribe": getLinkForAction(Action.Unsubscribe)
     },
