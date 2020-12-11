@@ -16,8 +16,9 @@ German and English, but most of the content is in German. The default human
 language is identified as German (de) by the lang attribute on the html element. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html#examples] Web
-Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+[https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 

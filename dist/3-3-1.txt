@@ -15,7 +15,8 @@ indicate errors. It simply requires that errors also be identified using text.
 In this example, two asterisks are used in addition to color. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html#examples] 
+[https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html#examples]
+
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)

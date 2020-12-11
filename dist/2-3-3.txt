@@ -16,7 +16,8 @@ Essential animation:  * A web application provides a feature to author animated
 
 I still don't really understand
 [https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html#examples]
- Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 

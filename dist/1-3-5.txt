@@ -21,7 +21,8 @@ A browser plugin to add icons inserts icons representing the person's name, home
 address, telephone number and email address to identify the input purpose
 visually. I still don't really understand
 [https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html#examples]
- Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 

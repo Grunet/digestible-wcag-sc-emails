@@ -15,7 +15,8 @@ A Web site has video of muzzle flash of machine gun fire, but limits the size of
 the flashing image to a small portion of the screen below the flash threshold
 size. I still don't really understand
 [https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html#examples]
- Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 

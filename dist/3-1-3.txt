@@ -17,8 +17,9 @@ used within WCAG 2.0 it is linked to the definition of "text" provided in a
 glossary within the same Web page. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html#examples] Web
-Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+[https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 27 February 2020 (https://www.w3.org/TR/2020/WD-WCAG22-20200227/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
