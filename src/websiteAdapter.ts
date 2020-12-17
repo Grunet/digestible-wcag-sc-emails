@@ -12,7 +12,7 @@ function getLinkForAction(action: Action) {
 
 //These should be centralized in their own repo if they're used elsewhere in the future
 const actionToHrefMap = new Map();
-actionToHrefMap.set(Action.Subscribe, "https://dwcag.org/subscribe");
+actionToHrefMap.set(Action.Subscribe, "https://dwcag.org/#sign-up-section");
 actionToHrefMap.set(Action.Contact, "https://dwcag.org/#feedback-section");
 actionToHrefMap.set(Action.Unsubscribe, "https://dwcag.org/unsubscribe");
 
