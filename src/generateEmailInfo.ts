@@ -1,5 +1,5 @@
-import { IOverrideInfo, prepHtml, deepCopyObj } from "./deps.ts";
-import { getLinkForAction, Action } from "./websiteAdapter.ts";
+import { deepCopyObj, IOverrideInfo, prepHtml } from "./deps.ts";
+import { Action, getLinkForAction } from "./websiteAdapter.ts";
 import { getReadingLevel } from "./readingLevelAdapter.ts";
 
 interface IEmailInfo {
@@ -26,6 +26,7 @@ function* createEmailInfoGenerator(
       templateHtml,
       plainTextOverrideInfo,
     )
+      .removeHiddenElements()
       .getHtmlAsPlainText();
 
     yield {
@@ -56,7 +57,7 @@ function __getOverrideInfo(obj: any): IOverrideInfo {
       "more-info": obj.links.examples,
       "subscribe": getLinkForAction(Action.Subscribe),
       "contact-us": getLinkForAction(Action.Contact),
-      "unsubscribe": getLinkForAction(Action.Unsubscribe)
+      "unsubscribe": getLinkForAction(Action.Unsubscribe),
     },
   };
 
@@ -110,5 +111,5 @@ function __adaptOverrideInfo(overrideInfo: IOverrideInfo) {
   };
 }
 
-export { createEmailInfoGenerator }
-export type { IEmailInfo }
+export { createEmailInfoGenerator };
+export type { IEmailInfo };

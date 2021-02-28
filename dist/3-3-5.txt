@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 3.3 - INPUT ASSISTANCE
+ 3.3 - INPUT ASSISTANCE
 HELP(LEVEL AAA)
 On accessible websites...
 

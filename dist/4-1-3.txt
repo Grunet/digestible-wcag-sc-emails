@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 4.1 - COMPATIBLE
+ 4.1 - COMPATIBLE
 STATUS MESSAGES(LEVEL AA)
 On accessible websites...
 

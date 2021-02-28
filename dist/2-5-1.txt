@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 2.5 - INPUT MODALITIES
+ 2.5 - INPUT MODALITIES
 POINTER GESTURES(LEVEL A)
 On accessible websites...
 

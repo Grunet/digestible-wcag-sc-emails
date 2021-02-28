@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 4.1 - COMPATIBLE
+ 4.1 - COMPATIBLE
 PARSING(LEVEL A)
 On accessible websites...
 

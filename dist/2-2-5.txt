@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 2.2 - ENOUGH TIME
+ 2.2 - ENOUGH TIME
 RE-AUTHENTICATING(LEVEL AAA)
 On accessible websites...
 

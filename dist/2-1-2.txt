@@ -1,4 +1,4 @@
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 2.1 - KEYBOARD ACCESSIBLE
+ 2.1 - KEYBOARD ACCESSIBLE
 NO KEYBOARD TRAP(LEVEL A)
 On accessible websites...
 
