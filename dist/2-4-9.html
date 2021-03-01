@@ -187,6 +187,14 @@
             width: -moz-fit-content;
             width: fit-content;
         }
+
+        /* Outlook Desktop has rules that will override inline styling for visited links */
+        a:visited {
+            /* Ideally this would only apply to the footer links, but many other selector combinations with ":visited" didn't seem to work for Outlook Desktop */
+
+            /* This should probably only apply to Outlook Desktop, since it's somehow able to override an inline style without being declared as "!important" */
+            color: #bf55bf; /* This threads the middle and has around 4:1 contrast against the white AND black backgrounds. I wasn't able to find any strictly better options :( */
+        }
     </style>
     <!-- Progressive Enhancements : END -->
 
