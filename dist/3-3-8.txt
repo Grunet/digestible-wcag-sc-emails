@@ -1,0 +1,34 @@
+ 3.3 - INPUT ASSISTANCE
+REDUNDANT ENTRY(LEVEL A)
+On accessible websites...
+
+[New]
+
+Information previously entered by or provided to the user that is required to be
+entered again in the same process and in the same user-session is either:
+
+ * auto-populated, or
+ * available for the user to select.
+
+Except when:
+
+ * re-entering the information is essential,
+ * the information is required to ensure the security of the content, or
+ * previously entered information is no longer valid.
+
+These websites...
+
+Help users avoid and correct mistakes.
+
+WHAT'S AN EXAMPLE?
+A search results page pre-fills the search input with the previously entered
+search term in the same process. I still don't really understand
+[https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Latest version at https://www.w3.org/TR/WCAG22/)
+
+ * Subscribe [https://dwcag.org/#sign-up-section]
+ * Share Feedback [https://dwcag.org/#feedback-section]
+ * Unsubscribe [https://dwcag.org/unsubscribe]

@@ -1,0 +1,27 @@
+ 2.5 - INPUT MODALITIES
+DRAGGING MOVEMENTS(LEVEL AA)
+On accessible websites...
+
+[New]
+
+All functionality that uses a dragging movement for operation can be achieved by
+a single pointer without dragging, unless dragging is essential.
+
+These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+A map allows users to drag the view of the map around, and the map has
+up/down/left/right buttons to move the view as well. I still don't really
+understand
+[https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Latest version at https://www.w3.org/TR/WCAG22/)
+
+ * Subscribe [https://dwcag.org/#sign-up-section]
+ * Share Feedback [https://dwcag.org/#feedback-section]
+ * Unsubscribe [https://dwcag.org/unsubscribe]

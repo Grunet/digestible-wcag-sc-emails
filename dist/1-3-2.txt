@@ -14,7 +14,7 @@ WHAT'S AN EXAMPLE?
 Example 1: In a multi-column document, the linear presentation of the content
 flows from the top of a column to the bottom of the column, then to the top of
 the next column. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

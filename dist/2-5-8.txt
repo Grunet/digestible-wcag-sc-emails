@@ -1,0 +1,33 @@
+ 2.5 - INPUT MODALITIES
+TARGET SIZE (MINIMUM)(LEVEL AA)
+On accessible websites...
+
+[New]
+
+Targets have an area of at least 24 by 24 CSS pixels, except where:
+
+ * Spacing: The target offset is at least 24 CSS pixels to every adjacent
+   target;
+ * Inline: The target is in a sentence or block of text;
+ * Essential: A particular presentation of the target is essential to the
+   information being conveyed.
+
+These websites...
+
+Make it easier for users to operate functionality through various inputs beyond
+keyboard.
+
+WHAT'S AN EXAMPLE?
+Three buttons are on-screen and the target area of each button is 24 by 24 CSS
+pixels. Since the target size itself is 24 by 24 CSS pixels, no additional
+spacing is required, the Success Criterion passes. I still don't really
+understand
+[https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Latest version at https://www.w3.org/TR/WCAG22/)
+
+ * Subscribe [https://dwcag.org/#sign-up-section]
+ * Share Feedback [https://dwcag.org/#feedback-section]
+ * Unsubscribe [https://dwcag.org/unsubscribe]

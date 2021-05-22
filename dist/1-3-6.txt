@@ -2,8 +2,8 @@
 IDENTIFY PURPOSE(LEVEL AAA)
 On accessible websites...
 
-In content implemented using markup languages, the purpose of User Interface
-Components, icons, and regions can be programmatically determined.
+In content implemented using markup languages, the purpose of user interface
+components, icons, and regions can be programmatically determined.
 
 These websites...
 
@@ -13,7 +13,7 @@ layout) without losing information or structure.
 WHAT'S AN EXAMPLE?
 The links in the navigation of a website are marked up so that users can add
 their own icons. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

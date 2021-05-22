@@ -14,7 +14,7 @@ keyboard.
 WHAT'S AN EXAMPLE?
 A user opens a menu with a mouse, and then navigates between the menu items with
 arrow keys. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/concurrent-input-mechanisms.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

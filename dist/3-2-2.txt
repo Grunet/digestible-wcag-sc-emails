@@ -17,7 +17,7 @@ number, and each part of the phone number is entered into a separate field. When
 the user completes the entry of one field the focus automatically moves to the
 next field of the phone number. This behavior of phone fields is described for
 the user at the beginning of the form. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/on-input.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/on-input.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

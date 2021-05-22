@@ -26,7 +26,7 @@ the left margin. CSS is used to position the text; set the spacing between
 lines; as well as display the text's font family, size, color and decoration. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

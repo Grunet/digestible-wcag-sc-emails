@@ -19,7 +19,7 @@ command to read the current paragraph provides the context to interpret the
 purpose of the link. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

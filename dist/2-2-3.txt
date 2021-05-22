@@ -15,7 +15,7 @@ WHAT'S AN EXAMPLE?
 One party can pause the game without invalidating the competitive aspect of it.
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/no-timing.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

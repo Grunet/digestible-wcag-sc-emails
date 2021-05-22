@@ -1,20 +1,26 @@
  2.4 - NAVIGABLE
-FOCUS VISIBLE (ENHANCED)(LEVEL AA)
+FOCUS APPEARANCE (MINIMUM)(LEVEL AA)
 On accessible websites...
 
 [New]
 
-When a User Interface Component displays a visible keyboard focus, all of the
-following are true:
+When user interface components receive keyboard focus, all of the following are
+true:
 
- * Minimum area: The focus indication area is greater than or equal to the
-   longest side of the bounding rectangle of the focused control, times 2 CSS
-   pixels.
- * Focus contrast: Color changes used to indicate focus have at least a 3:1
-   contrast ratio with the colors changed from the unfocused control.
- * Contrast or thickness: The focus indication area has a 3:1 contrast ratio
-   against all adjacent colors for the minimum area or greater, or has a
-   thickness of at least 2 CSS pixels.
+ * Contrasting area: There is an area of the focus indicator that has a contrast
+   ratio of at least 3:1 between the colors in the focused and unfocused states.
+ * Minimum area: The contrasting area is at least as large as:  * Outline: the area of a 1 CSS pixel thick perimeter of the unfocused
+      component, or
+    * Shape: the area of a 4 CSS pixel thick line along the shortest side of a
+      minimum bounding box of the unfocused component, and no thinner than 2 CSS
+      pixels.
+   
+   
+ * Adjacent contrast: The contrasting area also has a contrast ratio of least
+   3:1 against adjacent colors in the focused component, or the contrasting area
+   has a thickness of at least 2 CSS pixels.
+ * Not fully obscured: The item with focus is not entirely hidden by
+   author-created content.
 
 These websites...
 
@@ -23,7 +29,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 WHAT'S AN EXAMPLE?
 When links receive focus, an outline is displayed around the link that contrasts
 with the background adjacent to the link. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/focus-visible-enhanced.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-minimum.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

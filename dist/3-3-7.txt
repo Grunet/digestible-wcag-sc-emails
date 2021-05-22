@@ -1,0 +1,27 @@
+ 3.3 - INPUT ASSISTANCE
+ACCESSIBLE AUTHENTICATION(LEVEL A)
+On accessible websites...
+
+[New]
+
+For each step in an authentication process that relies on a cognitive function
+test, at least one other authentication method is available that does not rely
+on a cognitive function test, or a mechanism is available to assist the user in
+completing the cognitive function test.
+
+These websites...
+
+Help users avoid and correct mistakes.
+
+WHAT'S AN EXAMPLE?
+A web site offers the ability to login with a 3rd party provider using the OAuth
+method. I still don't really understand
+[https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Latest version at https://www.w3.org/TR/WCAG22/)
+
+ * Subscribe [https://dwcag.org/#sign-up-section]
+ * Share Feedback [https://dwcag.org/#feedback-section]
+ * Unsubscribe [https://dwcag.org/unsubscribe]

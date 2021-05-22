@@ -5,8 +5,8 @@ On accessible websites...
 The purpose of each input field collecting information about the user can be
 programmatically determined when:
 
- * The input field serves a purpose identified in the Input Purposes for User
-   Interface Components section; and
+ * The input field serves a purpose identified in the Input Purposes for user
+   interface components section; and
  * The content is implemented using technologies with support for identifying
    the expected meaning for form input data.
 
@@ -20,7 +20,7 @@ A contact form using icons
 A browser plugin to add icons inserts icons representing the person's name, home
 address, telephone number and email address to identify the input purpose
 visually. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

@@ -16,7 +16,7 @@ first and last name. The first field is labeled "First name", the second is
 labeled "Last name"." 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

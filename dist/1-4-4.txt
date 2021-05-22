@@ -16,7 +16,7 @@ browser from 1 em to 1.2 ems. While the user could not read the text at the
 smaller size, she can read the larger text. All the information on the page is
 still displayed when the larger font is used for the text. I still don't really
 understand
-[https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

@@ -10,12 +10,15 @@ These websites...
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
-This Success Criterion does not mean that color or text styles cannot be used to
-indicate errors. It simply requires that errors also be identified using text.
-In this example, two asterisks are used in addition to color. 
+ Providing multiple cues 
+
+The user fails to fill in two fields on the form. In addition to describing the
+error and providing a unique character to make it easy to search for the fields,
+the fields are highlighted in yellow to make it easier to visually search for
+them as well. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

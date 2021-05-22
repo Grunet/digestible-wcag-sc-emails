@@ -11,17 +11,16 @@ Make it easier for users to see and hear content including separating foreground
 from background.
 
 WHAT'S AN EXAMPLE?
- Disabled Form elements. 
+ An examination. 
 
-Form elements which are disabled via markup or scripting, are greyed out and
-made inactive by the user agent. When in the disabled state these elements do
-not receive focus. Assistive technologies can programmatically determine the
-state of disabled elements and will provide this information to the user as the
-elements are encountered on the page. The change in color and loss of focus
-provides redundant, visual information about the state of the control. 
+Students view an SVG image of a chemical compound and identify the chemical
+elements present based both on the colors used, as well as numbers next to each
+element. A legend shows the color and number for each type of element. Sighted
+users who cannot perceive all the color differences can still understand the
+image by relying on the numbers. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

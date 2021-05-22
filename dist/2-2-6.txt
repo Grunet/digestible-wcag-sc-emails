@@ -15,7 +15,7 @@ While making a purchase on an e-commerce Web site, the information input by the
 user is stored for more than 20 hours. This helps ensure that if they need to
 stop working for a while that they are more likely to be able to continue the
 purchase when they return. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/timeouts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

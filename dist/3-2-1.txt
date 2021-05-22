@@ -20,7 +20,7 @@ pulldown menu – it does not jump to a new screen as the focus shifts out of th
 dropdown menu. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

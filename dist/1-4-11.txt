@@ -18,7 +18,7 @@ from background.
 WHAT'S AN EXAMPLE?
 PIE CHARTS
 Pie charts make a good case study for the graphical objects part of this success
-criteria, the following pie charts are intended to convey the proportion of
+criterion, the following pie charts are intended to convey the proportion of
 market share each browser has. Please Note: The actual figures are made up,
 these are not actual market shares. 
 
@@ -36,7 +36,7 @@ between the slices of the pie chart (the graphical objects). A darker border has
 been added around the yellow slice in order to achieve the contrast level. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

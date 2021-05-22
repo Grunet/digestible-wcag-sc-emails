@@ -19,7 +19,7 @@ WHAT'S AN EXAMPLE?
 A Java applet uses the accessibility API defined by the language. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

@@ -24,7 +24,7 @@ for the likes of sailors, soldiers and woodsmen.."
 From Sample Transcript Formatting by Whit Anderson.
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

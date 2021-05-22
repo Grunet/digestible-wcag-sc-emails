@@ -14,7 +14,7 @@ A live radio play of a fringe theatre group is being broadcast to the Web. As
 the actors stick largely to a set script, and the budget for the program is
 small, the producers provide a link (with the playwright's permission) to the
 script of the play. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

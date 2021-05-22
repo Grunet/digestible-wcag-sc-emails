@@ -422,7 +422,23 @@
                 "html": "2-4-11.html",
                 "plainText": "2-4-11.txt"
             },
-            "subject": "Focus Visible (Enhanced) - 2.4.11"
+            "subject": "Focus Appearance (Minimum) - 2.4.11"
+        },
+        {
+            "id": "2.4.12",
+            "filenames": {
+                "html": "2-4-12.html",
+                "plainText": "2-4-12.txt"
+            },
+            "subject": "Focus Appearance (Enhanced) - 2.4.12"
+        },
+        {
+            "id": "2.4.13",
+            "filenames": {
+                "html": "2-4-13.html",
+                "plainText": "2-4-13.txt"
+            },
+            "subject": "Page Break Navigation - 2.4.13"
         },
         {
             "id": "2.5.1",
@@ -462,7 +478,7 @@
                 "html": "2-5-5.html",
                 "plainText": "2-5-5.txt"
             },
-            "subject": "Target Size - 2.5.5"
+            "subject": "Target Size (Enhanced) - 2.5.5"
         },
         {
             "id": "2.5.6",
@@ -471,6 +487,22 @@
                 "plainText": "2-5-6.txt"
             },
             "subject": "Concurrent Input Mechanisms - 2.5.6"
+        },
+        {
+            "id": "2.5.7",
+            "filenames": {
+                "html": "2-5-7.html",
+                "plainText": "2-5-7.txt"
+            },
+            "subject": "Dragging Movements - 2.5.7"
+        },
+        {
+            "id": "2.5.8",
+            "filenames": {
+                "html": "2-5-8.html",
+                "plainText": "2-5-8.txt"
+            },
+            "subject": "Target Size (Minimum) - 2.5.8"
         },
         {
             "id": "3.1.1",
@@ -561,6 +593,22 @@
             "subject": "Change on Request - 3.2.5"
         },
         {
+            "id": "3.2.6",
+            "filenames": {
+                "html": "3-2-6.html",
+                "plainText": "3-2-6.txt"
+            },
+            "subject": "Consistent Help - 3.2.6"
+        },
+        {
+            "id": "3.2.7",
+            "filenames": {
+                "html": "3-2-7.html",
+                "plainText": "3-2-7.txt"
+            },
+            "subject": "Visible Controls - 3.2.7"
+        },
+        {
             "id": "3.3.1",
             "filenames": {
                 "html": "3-3-1.html",
@@ -607,6 +655,22 @@
                 "plainText": "3-3-6.txt"
             },
             "subject": "Error Prevention (All) - 3.3.6"
+        },
+        {
+            "id": "3.3.7",
+            "filenames": {
+                "html": "3-3-7.html",
+                "plainText": "3-3-7.txt"
+            },
+            "subject": "Accessible Authentication - 3.3.7"
+        },
+        {
+            "id": "3.3.8",
+            "filenames": {
+                "html": "3-3-8.html",
+                "plainText": "3-3-8.txt"
+            },
+            "subject": "Redundant entry - 3.3.8"
         },
         {
             "id": "4.1.1",

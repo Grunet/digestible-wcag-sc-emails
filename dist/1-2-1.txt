@@ -24,7 +24,7 @@ The link to an audio clip says, "Chairman's speech to the assembly." A link to a
 text transcript is provided immediately after the link to the audio clip. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

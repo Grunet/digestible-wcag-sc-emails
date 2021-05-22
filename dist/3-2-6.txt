@@ -1,0 +1,35 @@
+ 3.2 - PREDICTABLE
+CONSISTENT HELP(LEVEL A)
+On accessible websites...
+
+[New]
+
+For each web page within a set of web pages that provides one or more of the
+following ways of finding help, access to at least one form of help is included
+in the same relative order on each page:
+
+ * Human contact details;
+ * Human contact mechanism;
+ * Self-help option;
+ * A fully automated contact mechanism.
+
+These websites...
+
+Make Web pages appear and operate in predictable ways.
+
+WHAT'S AN EXAMPLE?
+On-line job application - Some of the application questions may be hard for new
+job seekers to understand even after reading the contextual help. For example,
+the form may request their identification number, but they may have several and
+not know which one to enter. Easily findable contact information will enable
+them to use phone or email so they can get an answer to their question. I still
+don't really understand
+[https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html#examples]
+
+Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
+Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Latest version at https://www.w3.org/TR/WCAG22/)
+
+ * Subscribe [https://dwcag.org/#sign-up-section]
+ * Share Feedback [https://dwcag.org/#feedback-section]
+ * Unsubscribe [https://dwcag.org/unsubscribe]

@@ -12,16 +12,19 @@ Create content that can be presented in different ways (for example simpler
 layout) without losing information or structure.
 
 WHAT'S AN EXAMPLE?
- Example 1: A schedule of competitive events uses color and shape to distinguish
-the time of each event 
+ Example 2: An online multi-page survey 
 
-A table presents a list of times across the top row and a list of events in the
-first vertical column. The cell corresponding to the time of a particular event
-has a specific background color and diamond shaped glyph so it can be identified
-by color and shape. 
+An online multi-page survey uses a link implemented as a green arrow icon placed
+in the lower right hand corner of the content to move from one survey page to
+the next. The arrow is clearly labeled with "Next" and the instructions state,
+"To move to the next section of the survey, select the green arrow icon labeled
+'Next' in the lower right corner below the last survey question." The
+instruction uses positioning and color to help identify the icon; the
+instruction does not rely on these sensory characteristics since it also refers
+to the label, so it passes this criterion. 
 
 I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

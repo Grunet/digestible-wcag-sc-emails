@@ -16,8 +16,8 @@ after the main body content, and styled with CSS to appear on the left hand side
 of the page. This is done to allow focus to move to the main body content first
 without requiring tabIndex attributes or JavaScript. 
 
-Note I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html#examples]
+I still don't really understand
+[https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

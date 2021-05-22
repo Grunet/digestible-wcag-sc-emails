@@ -13,7 +13,7 @@ WHAT'S AN EXAMPLE?
 An e-commerce website includes a long list of filters prior to the search
 results listing. A link above the list enables users to skip the filters and get
 to the product results quickly. I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,

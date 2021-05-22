@@ -12,9 +12,10 @@ Make it easier for users to see and hear content including separating foreground
 from background.
 
 WHAT'S AN EXAMPLE?
-A Flash splash page with sound that plays and then stops in less than 3 seconds. 
-I still don't really understand
-[https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html#examples]
+An audio file begins playing automatically when a page is opened. However, the
+audio can be stopped by the user by selecting a "silent" link at the top of the
+page. I still don't really understand
+[https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
