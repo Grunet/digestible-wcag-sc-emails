@@ -22,12 +22,12 @@ from background.
 
 WHAT'S AN EXAMPLE?
 EXAMPLE 1: DISMISSABLE TOOLTIP
-Screenshot of a button with a mouse pointer over it, and a tooltip displayed  below the button [img/button-pointer-tooltip.png]Screenshot of a button with a mouse pointer over it, and no tooltip [img/button-pointer.png]
+Screenshot of a button with a mouse pointer over it, and a tooltip displayed  below the button [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-tooltip.png]Screenshot of a button with a mouse pointer over it, and no tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer.png]
  Figure 1 A tooltip is displayed below a LVTF button on hover so as not to
 obscure the button itself. It does however obscure content below the button (the
 next red button, called ~comment-zoom-content). To meet the Dismissible
 requirement, a user can press the Escape key to clear the tooltip without moving
-the mouse, as demonstrated in the second image. Screenshot of a button with a focus indicator on it, and no tooltip [img/button-focus-indicator.png]
+the mouse, as demonstrated in the second image. Screenshot of a button with a focus indicator on it, and no tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-focus-indicator.png]
  Figure 2 The button's tooltip also appears on focus and can be removed with the
 Escape key. The screen shot shows the same LVTF button with focus, but the
 tooltip has been dismissed and is no longer visible. I still don't really
