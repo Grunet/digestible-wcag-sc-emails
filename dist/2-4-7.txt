@@ -14,7 +14,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 WHAT'S AN EXAMPLE?
 When text fields receive focus, a vertical bar is displayed in the field,
 indicating that the user can insert text, OR all of the text is highlighted,
-indicating that the user can type over the text. I still don't really understand
+indicating that the user can type over the text. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

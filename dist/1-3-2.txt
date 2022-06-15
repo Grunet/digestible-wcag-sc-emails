@@ -13,7 +13,7 @@ layout) without losing information or structure.
 WHAT'S AN EXAMPLE?
 Example 1: In a multi-column document, the linear presentation of the content
 flows from the top of a column to the bottom of the column, then to the top of
-the next column. I still don't really understand
+the next column. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

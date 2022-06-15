@@ -16,7 +16,7 @@ A search engine provides the search results based on user input. There is no
 other way to locate the search results except to perform the search process
 itself. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

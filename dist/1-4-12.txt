@@ -28,7 +28,7 @@ When spacing is be overridden to the SC's metrics:
  2. Text fits within the bounds of its containing box without overlapping other
     boxes.
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

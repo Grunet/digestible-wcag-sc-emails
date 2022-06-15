@@ -25,7 +25,7 @@ attributed is below the quote with 1.5x the line space and further indented from
 the left margin. CSS is used to position the text; set the spacing between
 lines; as well as display the text's font family, size, color and decoration. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

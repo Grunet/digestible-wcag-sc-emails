@@ -12,8 +12,8 @@ Provide alternatives for time-based media.
 WHAT'S AN EXAMPLE?
 Example 2. The same announcement described in example 1 is also Webcast to
 remote employees. Since there is only one display available for this, the sign
-language interpreter is shown in the corner of the display. I still don't really
-understand
+language interpreter is shown in the corner of the display. I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -14,8 +14,8 @@ WHAT'S AN EXAMPLE?
 A user with vision impairments increases the text size on a Web page in a
 browser from 1 em to 1.2 ems. While the user could not read the text at the
 smaller size, she can read the larger text. All the information on the page is
-still displayed when the larger font is used for the text. I still don't really
-understand
+still displayed when the larger font is used for the text. I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

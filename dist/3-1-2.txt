@@ -19,7 +19,7 @@ An HTML Web page includes links to versions of the page in other languages
 is the name of the language, in that language. The language of each link is
 indicated via a lang attribute. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

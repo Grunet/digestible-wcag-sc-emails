@@ -19,7 +19,7 @@ character, *. The instructions for completing the form indicate that "all
 required fields are displayed in red and marked with an asterisk *", followed by
 an example. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

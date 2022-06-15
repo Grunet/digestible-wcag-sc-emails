@@ -19,7 +19,7 @@ element. A legend shows the color and number for each type of element. Sighted
 users who cannot perceive all the color differences can still understand the
 image by relying on the numbers. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -14,7 +14,7 @@ WHAT'S AN EXAMPLE?
 While making a purchase on an e-commerce Web site, the information input by the
 user is stored for more than 20 hours. This helps ensure that if they need to
 stop working for a while that they are more likely to be able to continue the
-purchase when they return. I still don't really understand
+purchase when they return. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/timeouts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

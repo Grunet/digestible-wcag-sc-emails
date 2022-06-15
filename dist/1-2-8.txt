@@ -19,7 +19,7 @@ center provides an alternative for time-based media that all clients, including
 those who can neither see the demonstrations nor hear the explanations in the
 synchronized media, can use to better understand what is being presented. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

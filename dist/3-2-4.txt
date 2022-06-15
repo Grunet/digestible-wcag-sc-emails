@@ -15,7 +15,7 @@ WHAT'S AN EXAMPLE?
 A common "save" icon is used through out the site where page save function is
 provided on multiple Web pages. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

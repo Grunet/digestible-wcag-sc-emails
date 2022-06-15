@@ -18,7 +18,7 @@ keyboard.
 WHAT'S AN EXAMPLE?
 Example 1: Buttons
 Three buttons are on-screen and the touch target area of each button is 44 by 44
-CSS pixels. I still don't really understand
+CSS pixels. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -14,8 +14,8 @@ keyboard.
 
 WHAT'S AN EXAMPLE?
 A map allows users to drag the view of the map around, and the map has
-up/down/left/right buttons to move the view as well. I still don't really
-understand
+up/down/left/right buttons to move the view as well. I’d like to know a little
+more
 [https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -22,8 +22,8 @@ On-line job application - Some of the application questions may be hard for new
 job seekers to understand even after reading the contextual help. For example,
 the form may request their identification number, but they may have several and
 not know which one to enter. Easily findable contact information will enable
-them to use phone or email so they can get an answer to their question. I still
-don't really understand
+them to use phone or email so they can get an answer to their question. I’d like
+to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

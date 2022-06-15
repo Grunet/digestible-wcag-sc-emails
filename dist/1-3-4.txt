@@ -14,7 +14,7 @@ layout) without losing information or structure.
 WHAT'S AN EXAMPLE?
 Example 3: eReader web app
 An eReader web app can display the contents of a book in both portrait and
-landscape orientation. I still don't really understand
+landscape orientation. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/orientation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

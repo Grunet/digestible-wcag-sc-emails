@@ -15,7 +15,7 @@ keyboard.
 
 WHAT'S AN EXAMPLE?
 A user can tilt a device to advance to the next or a previous page. Buttons are
-also provided to perform the same function. I still don't really understand
+also provided to perform the same function. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

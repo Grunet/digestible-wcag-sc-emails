@@ -19,7 +19,7 @@ different formats. The rendered text for each link is just the format type, but
 the text associated with each link includes the title as well as the format; for
 instance, "Gulliver's Travels, MP3." 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

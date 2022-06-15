@@ -16,7 +16,7 @@ The preferences page of a Web portal includes an option to postpone all updates
 and alerts until the end of the current session, except for alerts concerning
 emergencies. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/interruptions.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

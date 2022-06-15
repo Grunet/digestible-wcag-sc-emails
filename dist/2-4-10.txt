@@ -11,7 +11,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 WHAT'S AN EXAMPLE?
 A Web application contains a settings page that is divided into groups of
 related settings. Each section contains a heading describing the class of
-settings. I still don't really understand
+settings. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/section-headings.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

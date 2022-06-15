@@ -16,7 +16,7 @@ A web site includes a map view that supports the pinch gesture to zoom into the
 map content. User interface controls offer the operation using plus and minus
 buttons to zoom in and out. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

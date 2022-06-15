@@ -18,7 +18,7 @@ few sentences of each article, followed by a "Read more" link. A screen reader
 command to read the current paragraph provides the context to interpret the
 purpose of the link. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

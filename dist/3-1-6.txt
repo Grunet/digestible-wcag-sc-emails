@@ -18,7 +18,7 @@ knowing the correct pronunciation. Each word is linked to a sound file that
 gives the correct pronunciation. Users can select these links to find out how to
 pronounce the words. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/pronunciation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

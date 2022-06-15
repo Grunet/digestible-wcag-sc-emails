@@ -22,7 +22,7 @@ lose any data because the server had temporarily accepted and stored the
 submission even though the session had timed out and restored the user to the
 same state after re-authentication was completed. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -27,7 +27,7 @@ double-spaced text in a paragraph.
 Examples of glyphs include "A", "→" (an arrow symbol), and "さ" (a Japanese
 character).
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

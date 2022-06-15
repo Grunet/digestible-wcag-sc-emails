@@ -22,7 +22,7 @@ Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
 A search results page pre-fills the search input with the previously entered
-search term in the same process. I still don't really understand
+search term in the same process. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

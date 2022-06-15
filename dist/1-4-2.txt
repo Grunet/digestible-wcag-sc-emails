@@ -14,7 +14,7 @@ from background.
 WHAT'S AN EXAMPLE?
 An audio file begins playing automatically when a page is opened. However, the
 audio can be stopped by the user by selecting a "silent" link at the top of the
-page. I still don't really understand
+page. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

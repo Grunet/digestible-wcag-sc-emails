@@ -30,8 +30,8 @@ requirement, a user can press the Escape key to clear the tooltip without moving
 the mouse, as demonstrated in the second image. Screenshot of a button with a focus indicator on it, and no tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-focus-indicator.png]
  Figure 2 The button's tooltip also appears on focus and can be removed with the
 Escape key. The screen shot shows the same LVTF button with focus, but the
-tooltip has been dismissed and is no longer visible. I still don't really
-understand
+tooltip has been dismissed and is no longer visible. I’d like to know a little
+more
 [https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

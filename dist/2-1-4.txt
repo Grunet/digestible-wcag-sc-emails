@@ -23,7 +23,7 @@ However, a mechanism is provided to allow users to change character-key
 shortcuts. She changes the shortcut to include another key so she can avoid
 future interruptions. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

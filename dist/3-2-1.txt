@@ -19,7 +19,7 @@ down to a choice and either hits the escape or the tab key to move out of the
 pulldown menu – it does not jump to a new screen as the focus shifts out of the
 dropdown menu. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

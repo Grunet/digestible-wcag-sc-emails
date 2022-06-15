@@ -24,7 +24,7 @@ suggestions for correction may include
  * The conversion of the input data interpreted as a different month format,
    e.g., "Do you mean 'December'?" 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -39,7 +39,7 @@ STATUS MESSAGE EXAMPLES
     [https://material.io/design/components/snackbars.html#] displays the message
     "Saved in 'Wedding' album", which is also read by a screen reader. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

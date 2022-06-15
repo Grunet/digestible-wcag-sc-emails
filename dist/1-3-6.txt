@@ -12,7 +12,7 @@ layout) without losing information or structure.
 
 WHAT'S AN EXAMPLE?
 The links in the navigation of a website are marked up so that users can add
-their own icons. I still don't really understand
+their own icons. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

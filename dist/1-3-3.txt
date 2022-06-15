@@ -23,7 +23,7 @@ instruction uses positioning and color to help identify the icon; the
 instruction does not rely on these sensory characteristics since it also refers
 to the label, so it passes this criterion. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

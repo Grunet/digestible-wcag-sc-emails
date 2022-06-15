@@ -13,7 +13,7 @@ WHAT'S AN EXAMPLE?
 A live radio play of a fringe theatre group is being broadcast to the Web. As
 the actors stick largely to a set script, and the budget for the program is
 small, the producers provide a link (with the playwright's permission) to the
-script of the play. I still don't really understand
+script of the play. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

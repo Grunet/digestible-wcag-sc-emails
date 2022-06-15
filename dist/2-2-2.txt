@@ -27,7 +27,7 @@ A form blinks an arrow near the submit button if a user finishes filling out the
 form but does not activate the submit button. The blinking stops after 5
 seconds. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

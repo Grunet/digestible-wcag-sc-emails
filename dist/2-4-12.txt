@@ -33,7 +33,7 @@ The examples of this success criterion are similar to Focus Appearance
  * When radio buttons receive focus, an outline is displayed around the control,
    indicating that the input has focus. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

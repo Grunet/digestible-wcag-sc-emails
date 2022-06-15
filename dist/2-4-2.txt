@@ -14,7 +14,7 @@ WHAT'S AN EXAMPLE?
 The descriptive title of an HTML Web page is marked up with the <title> element
 so that it will be displayed in the title bar of the user agent. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

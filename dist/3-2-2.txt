@@ -16,7 +16,7 @@ three digit area code followed by a three digit prefix and finally a four digit
 number, and each part of the phone number is entered into a separate field. When
 the user completes the entry of one field the focus automatically moves to the
 next field of the phone number. This behavior of phone fields is described for
-the user at the beginning of the form. I still don't really understand
+the user at the beginning of the form. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/on-input.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

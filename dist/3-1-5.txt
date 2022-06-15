@@ -37,7 +37,7 @@ Now let's think about what you've found.
 
 (Source: Howard Hughes Medical Institute "CoolScience for Kids" Project) 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

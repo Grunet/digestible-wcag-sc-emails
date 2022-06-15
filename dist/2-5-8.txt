@@ -20,8 +20,8 @@ keyboard.
 WHAT'S AN EXAMPLE?
 Three buttons are on-screen and the target area of each button is 24 by 24 CSS
 pixels. Since the target size itself is 24 by 24 CSS pixels, no additional
-spacing is required, the Success Criterion passes. I still don't really
-understand
+spacing is required, the Success Criterion passes. I’d like to know a little
+more
 [https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

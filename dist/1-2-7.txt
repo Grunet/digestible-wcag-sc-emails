@@ -16,8 +16,8 @@ freehand sketches on the whiteboard, speaking rapidly as he draws. As soon as he
 has finished discussing one problem, he erases the drawing and makes another
 sketch while continuing to speak and gesture with his other hand. The video is
 paused between problems, and extended audio description of the professor's
-drawings and gestures is provided; the video is then resumed. I still don't
-really understand
+drawings and gestures is provided; the video is then resumed. I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

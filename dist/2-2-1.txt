@@ -30,8 +30,8 @@ Provide users enough time to read and use content.
 WHAT'S AN EXAMPLE?
 A Web site uses a client side time limit to help protect users who may step away
 from their computer. After a period of inactivity the Web page asks if the user
-needs more time. If it doesn't get a response – it times out. I still don't
-really understand
+needs more time. If it doesn't get a response – it times out. I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

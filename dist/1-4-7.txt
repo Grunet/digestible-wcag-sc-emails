@@ -24,7 +24,7 @@ WHAT'S AN EXAMPLE?
 My bot couldn't find any 😢. But the linked pages might still have ones it
 missed.
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -27,7 +27,7 @@ options are eventually behind a "hamburger" menu button. All the information and
 functionality is still available from this web page. There is no horizontal
 scrolling. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/reflow.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

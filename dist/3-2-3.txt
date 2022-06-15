@@ -16,7 +16,7 @@ WHAT'S AN EXAMPLE?
 A search field is the last item on every Web page in a site. Users can quickly
 locate the search function. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -21,7 +21,7 @@ the dialog; tabbing from the last control in the dialog takes focus to the first
 control in the dialog. The dialog is dismissed by activating the Cancel button
 or the OK button. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

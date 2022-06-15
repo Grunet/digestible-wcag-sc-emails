@@ -37,7 +37,7 @@ Passing pie chart [https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-cont
 between the slices of the pie chart (the graphical objects). A darker border has
 been added around the yellow slice in order to achieve the contrast level. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

@@ -14,7 +14,7 @@ WHAT'S AN EXAMPLE?
 Essential animation:  * A web application provides a feature to author animated
    sequences. As part of this tool the author needs to preview the animation. 
 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

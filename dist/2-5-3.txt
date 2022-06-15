@@ -12,8 +12,8 @@ keyboard.
 
 WHAT'S AN EXAMPLE?
 Accessible name starts with visible label:The acessible name "Search for a
-value" begins with the text of the visible label, "Search". I still don't really
-understand
+value" begins with the text of the visible label, "Search". I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/label-in-name.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

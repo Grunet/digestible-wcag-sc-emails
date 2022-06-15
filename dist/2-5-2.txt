@@ -18,7 +18,7 @@ keyboard.
 WHAT'S AN EXAMPLE?
 For interface elements that have a single tap or long press as input, the
 corresponding event is triggered when the finger is lifted inside that element. 
-I still don't really understand
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
