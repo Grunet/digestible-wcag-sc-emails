@@ -4,13 +4,21 @@ On accessible websites...
 
 [New]
 
-Targets have an area of at least 24 by 24 CSS pixels, except where:
+The size of the target for pointer inputs is at least 24 by 24 CSS pixels,
+except where:
 
- * Spacing: The target offset is at least 24 CSS pixels to every adjacent
-   target;
- * Inline: The target is in a sentence or block of text;
- * Essential: A particular presentation of the target is essential to the
-   information being conveyed.
+ * Spacing: Undersized targets (those less than 24 by 24 CSS pixels) are
+   positioned so that if a 24 CSS pixel diameter circle is centered on the
+   bounding box of each, the circles do not intersect another target or the
+   circle for another undersized target;
+ * Equivalent: The function can be achieved through a different control on the
+   same page that meets this criterion;
+ * Inline: The target is in a sentence or its size is otherwise constrained by
+   the line-height of non-target text;
+ * User agent control: The size of the target is determined by the user agent
+   and is not modified by the author;
+ * Essential: A particular presentation of the target is essential or is legally
+   required for the information being conveyed.
 
 These websites...
 
@@ -18,14 +26,14 @@ Make it easier for users to operate functionality through various inputs beyond
 keyboard.
 
 WHAT'S AN EXAMPLE?
-Three buttons are on-screen and the target area of each button is 24 by 24 CSS
+Three buttons are on-screen and the target size of each button is 24 by 24 CSS
 pixels. Since the target size itself is 24 by 24 CSS pixels, no additional
 spacing is required, the Success Criterion passes. I’d like to know a little
 more
 [https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

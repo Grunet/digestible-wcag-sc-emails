@@ -1,43 +1,27 @@
  2.4 - NAVIGABLE
-FOCUS APPEARANCE (ENHANCED)(LEVEL AAA)
+FOCUS NOT OBSCURED (ENHANCED)(LEVEL AAA)
 On accessible websites...
 
 [New]
 
-When user interface components have keyboard focus, all of the following are
-true:
-
- * Contrasting area: There is an area of the focus indicator that has a contrast
-   ratio of at least 4.5:1 between the colors in the focused and unfocused
-   states.
- * Minimum area: The contrasting area is at least double the area of a 1 CSS
-   pixel perimeter of the unfocused component;
- * Not obscured: No part of the focus indicator is hidden by author-created
-   content.
+When a user interface component receives keyboard focus, no part of the
+component is hidden by author-created content.
 
 These websites...
 
 Provide ways to help users navigate, find content, and determine where they are.
 
 WHAT'S AN EXAMPLE?
-EXAMPLES
-The examples of this success criterion are similar to Focus Appearance
-(Minimum).
-
- * When links receive focus, an outline is displayed around the link that
-   contrasts with the background adjacent to the link. 
- * When buttons receive focus, and outline is displayed within the button
-   (around the text) that contrasts with the button’s background. 
- * When text fields receive focus, an outline is displayed around the field,
-   indicating that the input has focus. 
- * When radio buttons receive focus, an outline is displayed around the control,
-   indicating that the input has focus. 
-
-I’d like to know a little more
-[https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced.html#examples]
+A page has a sticky footer (attached to the bottom of the viewport). When
+tabbing down the page the focused item is not at all obscured by the footer
+because content in the viewport scrolls up to always display the item with
+keyboard focus using scroll padding
+[https://www.w3.org/TR/css-scroll-snap/#propdef-scroll-padding]. I’d like to
+know a little more
+[https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

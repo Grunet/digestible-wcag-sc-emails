@@ -218,17 +218,15 @@
             <!-- (Optional) This text will appear in the inbox preview, but not the email body. It can be used to supplement the email subject line or even summarize the email's contents. Extended text preheaders (~490 characters) seems like a better UX for anyone using a screenreader or voice-command apps like Siri to dictate the contents of an email. If this text is not included, email clients will automatically populate it using the text (including image alt text) at the start of the email's body. -->
             [New]
 
-Information previously entered by or provided to the user that is required to be
-entered again in the same process and in the same user-session is either:
+A cognitive function test (such as remembering a password or solving a puzzle)
+is not required for any step in an authentication process unless that step
+provides at least one of the following:
 
- * auto-populated, or
- * available for the user to select.
-
-Except when:
-
- * re-entering the information is essential,
- * the information is required to ensure the security of the content, or
- * previously entered information is no longer valid.
+Alternative Another authentication method that does not rely on a cognitive
+function test. Mechanism A mechanism is available to assist the user in
+completing the cognitive function test. Object Recognition The cognitive
+function test is to recognize objects. Personal Content The cognitive function
+test is to identify non-text content the user provided to the Web site.
         </div>
         <!-- Visually Hidden Preheader Text : END -->
 
@@ -280,7 +278,7 @@ Except when:
                             </tr>
                             <tr>
                                 <td style="padding: 20px 20px 0 20px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
-                                    <h2 style="margin: 0 0 10px 0; font-family: sans-serif; font-size: 20px; line-height: 22px; color: #333333; font-weight: bold;">Redundant entry&#xA0;<span style="font-weight: normal; font-size: 15px;">(Level A)</span></h2>
+                                    <h2 style="margin: 0 0 10px 0; font-family: sans-serif; font-size: 20px; line-height: 22px; color: #333333; font-weight: bold;">Accessible Authentication (Minimum)&#xA0;<span style="font-weight: normal; font-size: 15px;">(Level AA)</span></h2>
                                     <p style="margin: 0 0 10px 0;"><i>On accessible websites...</i></p>
                                     <div style="margin: 0 10px 0 10px;">
                                         
@@ -290,18 +288,18 @@ Except when:
     
 	<p class="change">[New]</p>
     
-    <p>Information previously entered by or provided to the user that is required to be entered again in the same process and in the same user-session is either:</p>
+    <p>A cognitive function test (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p> 
+    <dl>
+        <dt>Alternative</dt>
+        <dd>Another authentication method that does not rely on a cognitive function test.</dd>
+        <dt>Mechanism</dt>
+      <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
+        <dt>Object Recognition</dt>
+        <dd>The cognitive function test is to recognize objects.</dd>
+        <dt>Personal Content</dt>
+      <dd>The cognitive function test is to identify non-text content the user provided to the Web site.</dd>
+    </dl>
 
-    <ul>
-        <li>auto-populated, or</li>
-        <li>available for the user to select.</li>
-    </ul>
-    <p>Except when:</p> 
-    <ul>
-        <li>re-entering the information is essential,</li>
-        <li>the information is required to ensure the security of the content, or</li>
-        <li>previously entered information is no longer valid.</li>
-    </ul>
     
     
     
@@ -311,9 +309,21 @@ Except when:
                                     <p style="margin: 0 10px 0 10px;">Help users avoid and correct mistakes.</p>
                                     <h3 style="margin: 15px 0 10px 0; font-family: sans-serif; font-size: 15px; line-height: 17px; color: #333333;">What&apos;s an example?</h3>
                                     <div style="margin: 0 10px 0 10px;">
-                                        A search results page pre-fills the search input with the previously entered search
-                  term in the same process.
-               
+                                        
+      <h2>Examples</h2>
+      <p>The examples of this Success Criterion are the same as the <a href="accessible-authentication-enhanced.html#examples">Accessible Authentication (Enhanced)</a> examples.</p>
+
+      <ul>
+         <li>A web site uses a properly marked up username (or email) and password fields as the login authentication (meeting <a href="identify-input-purpose">Success Criterion 1.3.5 Input Purpose</a> and <a href="name-role-value">Success Criterion 4.1.2: Name, Role, Value</a>). The user&apos;s browser or integrated third-party password manager extension can identify the purpose of the inputs and automatically fill in the username and password.</li>
+         <li>A web site does not block paste functionality. The user is able to use a third-party password manager to store credentials, copy them, and paste them directly into a login form.</li>
+         <li>A web site uses WebAuthn so the user can authenticate with their device instead of username/password. The user&apos;s device could use any available modality. Common methods on laptops and phones are facial-scan, fingerprint, and PIN (Personal Identification Number). The web site is not enforcing any particular use; it is assumed a user will set up a method that suits them.</li>
+         <li>A web site offers the ability to login with a third-party provider using the OAuth method.</li>
+         <li>A web site that requires two-factor authentication allows for multiple options for the 2nd factor, including a USB-based method where the user simply presses a button to enter a time-based token.</li>
+         <li>A web site that requires two-factor authentication displays a QR code which can be scanned by an app on a user&apos;s device to confirm identity.</li>
+         <li>A web site that requires two-factor authentication sends a notification to a user&apos;s device. The user must use their device&apos;s authentication mechanism (for example, user-defined PIN, fingerprint, facial recognition) to confirm identity.</li>
+      </ul>
+      
+   
                                     </div>
                                 </td>
                             </tr>
@@ -326,7 +336,7 @@ Except when:
                 </tbody></table><table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
                     <tbody><tr>
                         <td align="center" style="background-color: #ffffff;">
-                            <p style="margin: 10px;"><a id="more-info" href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html#examples" style="display: block; padding: 10px;">I&#x2019;d like to know a little more</a></p>
+                            <p style="margin: 10px;"><a id="more-info" href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html#examples" style="display: block; padding: 10px;">I&#x2019;d like to know a little more</a></p>
                         </td>
                     </tr>
                 </tbody></table>
@@ -350,7 +360,7 @@ Except when:
                         <!-- <webversion style="color: #cccccc; text-decoration: underline; font-weight: bold;">View as a Web Page</webversion>
                         <br><br> -->
                         <!-- The raw URLs are broken up with hidden <br /> tags here to prevent email clients from automatically turning them into anchor tags (which on top of not being what's intended, have poor contrast against the background) See https://stackoverflow.com/q/7625880/11866924 for a discussion of alternative hacks-->
-						<p style="padding-bottom: 15px; margin: 0;"><em>Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 21 May 2021 (https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/2021/WD-WCAG22-20210521/, Latest version at https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/WCAG22/)</em></p>
+						<p style="padding-bottom: 15px; margin: 0;"><em>Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 05 October 2023 (https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/2023/REC-WCAG22-20231005/, Latest version at https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/WCAG22/)</em></p>
                         <ul style="list-style-type: none; margin: 0; padding: 0;">
                             <li><a id="subscribe" href="https://dwcag.org/#sign-up-section" style="color: #ffa562; display: block; padding: 15px; margin: auto;">Subscribe</a></li>
                             <li><a id="contact-us" href="https://dwcag.org/#feedback-section" style="color: #ffa562; display: block; padding: 15px; margin: auto;">Share Feedback</a></li>

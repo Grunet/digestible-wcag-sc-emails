@@ -1,25 +1,32 @@
  3.3 - INPUT ASSISTANCE
-ACCESSIBLE AUTHENTICATION(LEVEL A)
+REDUNDANT ENTRY(LEVEL A)
 On accessible websites...
 
 [New]
 
-For each step in an authentication process that relies on a cognitive function
-test, at least one other authentication method is available that does not rely
-on a cognitive function test, or a mechanism is available to assist the user in
-completing the cognitive function test.
+Information previously entered by or provided to the user that is required to be
+entered again in the same process is either:
+
+ * auto-populated, or
+ * available for the user to select.
+
+Except when:
+
+ * re-entering the information is essential,
+ * the information is required to ensure the security of the content, or
+ * previously entered information is no longer valid.
 
 These websites...
 
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
-A web site offers the ability to login with a 3rd party provider using the OAuth
-method. I’d like to know a little more
-[https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html#examples]
+A search results page pre-fills the search input with the previously entered
+search term in the same process. I’d like to know a little more
+[https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

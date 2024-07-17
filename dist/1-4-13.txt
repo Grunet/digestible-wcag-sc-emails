@@ -18,24 +18,21 @@ controlled by the user agent and is not modified by the author.
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
-EXAMPLE 1: DISMISSABLE TOOLTIP
-Screenshot of a button with a mouse pointer over it, and a tooltip displayed  below the button [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-tooltip.png]Screenshot of a button with a mouse pointer over it, and no tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer.png]
- Figure 1 A tooltip is displayed below a LVTF button on hover so as not to
-obscure the button itself. It does however obscure content below the button (the
-next red button, called ~comment-zoom-content). To meet the Dismissible
-requirement, a user can press the Escape key to clear the tooltip without moving
-the mouse, as demonstrated in the second image. Screenshot of a button with a focus indicator on it, and no tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-focus-indicator.png]
- Figure 2 The button's tooltip also appears on focus and can be removed with the
-Escape key. The screen shot shows the same LVTF button with focus, but the
-tooltip has been dismissed and is no longer visible. I’d like to know a little
-more
+EXAMPLE 2: HOVERABLE TOOLTIP
+Screenshot of a button with a large mouse pointer over it, and a tooltip displayed  below the button which is obscured by the large pointer [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-on-tooltip.png]Screenshot of a button with a tooltip below it, and a large mouse pointer at the bottom of the tooltip [https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-below-tooltip.png]
+Figure 3A button's tooltip is displayed directly below it on mouse hover which
+can easily be obscured by a large pointer. The tooltip itself is able to be
+hovered so the mouse pointer can be moved down to its bottom edge in order to
+view the tooltip text.
+
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

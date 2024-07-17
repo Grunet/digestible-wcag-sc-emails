@@ -18,21 +18,21 @@ properties that exist for that combination of language and script.
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
 EXAMPLES
-When spacing is be overridden to the SC's metrics:
+When spacing is being overridden to the SC's metrics:
 
- 1. Text fits within the bounds of its containing box without being cut off.
- 2. Text fits within the bounds of its containing box without overlapping other
-    boxes.
+ * Text fits within the bounds of its containing box without being cut off.
+ * Text fits within the bounds of its containing box without overlapping other
+   boxes.
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

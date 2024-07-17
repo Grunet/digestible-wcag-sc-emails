@@ -13,7 +13,7 @@ when a particular presentation of graphics is essential to the information being
 conveyed. These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
 PIE CHARTS
@@ -23,25 +23,25 @@ market share each browser has. Please Note: The actual figures are made up,
 these are not actual market shares. 
 
 Failing pie chart [https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_fail.png]
- Figure 11 Fail: The pie chart has labels for each slice (so passes 1.4.1 Use of Color),
+Figure 20Fail: The pie chart has labels for each slice (so passes 1.4.1 Use of Color),
 but in order to understand the proportions of the slices you must discern the
 edges of the slices (the graphical objects conveying essential information), and
 the contrast between the slices is not 3:1 or greater. 
 
 Not applicable pie chart [https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_na.png]
- Figure 12 Not applicable: The pie chart has visible labels and values that convey
+Figure 21Not applicable: The pie chart has visible labels and values that convey
 equivalent information to the graphical objects (the pie slices). 
 
 Passing pie chart [https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_pass.png]
- Figure 13 Pass: The pie chart has visible labels, and sufficient contrast around and
+Figure 22Pass: The pie chart has visible labels, and sufficient contrast around and
 between the slices of the pie chart (the graphical objects). A darker border has
-been added around the yellow slice in order to achieve the contrast level. 
+been added around the yellow slice in order to achieve the contrast level.
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

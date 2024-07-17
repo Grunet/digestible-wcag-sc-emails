@@ -16,13 +16,13 @@ Make it easier for users to operate functionality through various inputs beyond
 keyboard.
 
 WHAT'S AN EXAMPLE?
-Example 1: Buttons
-Three buttons are on-screen and the touch target area of each button is 44 by 44
-CSS pixels. I’d like to know a little more
+Example 3: Anchor Link
+The target is an in-page link and the target is less than 44 by 44 CSS pixels. 
+I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

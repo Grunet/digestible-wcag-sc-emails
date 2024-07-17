@@ -1,5 +1,5 @@
  3.3 - INPUT ASSISTANCE
-ACCESSIBLE AUTHENTICATION (MINIMUM)(LEVEL AA)
+ACCESSIBLE AUTHENTICATION (ENHANCED)(LEVEL AAA)
 On accessible websites...
 
 [New]
@@ -10,17 +10,14 @@ provides at least one of the following:
 
 Alternative Another authentication method that does not rely on a cognitive
 function test. Mechanism A mechanism is available to assist the user in
-completing the cognitive function test. Object Recognition The cognitive
-function test is to recognize objects. Personal Content The cognitive function
-test is to identify non-text content the user provided to the Web site. These
-websites...
+completing the cognitive function test. These websites...
 
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
 EXAMPLES
-The examples of this Success Criterion are the same as the Accessible
-Authentication (Enhanced) [accessible-authentication-enhanced.html#examples] 
+The examples of this Success Criterion are very similar to the Accessible
+Authentication (Minimum) [accessible-authentication-minimum.html#examples] 
 examples.
 
  * A web site uses a properly marked up username (or email) and password fields
@@ -50,7 +47,7 @@ examples.
    identity.
 
 I’d like to know a little more
-[https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html#examples]
+[https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
 Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,

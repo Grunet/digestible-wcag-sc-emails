@@ -12,16 +12,12 @@ These websites...
 Make all functionality available from a keyboard.
 
 WHAT'S AN EXAMPLE?
- Example 2: A drag and Drop Feature. 
-
 An application that uses drag and drop also supports "cut" and "paste" or form
-controls to move objects. 
-
-I’d like to know a little more
+controls to move objects. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

@@ -10,15 +10,13 @@ These websites...
 Provide users enough time to read and use content.
 
 WHAT'S AN EXAMPLE?
- A game is designed so that users take turns rather than competing in real-time 
-
-One party can pause the game without invalidating the competitive aspect of it.
-
-I’d like to know a little more
+Rather than calibrating an on-line test using a time limit, the test is
+calibrated based on scores when users have no time limits. I’d like to know a
+little more
 [https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

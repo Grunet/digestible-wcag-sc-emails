@@ -8,7 +8,7 @@ components, icons, and regions can be programmatically determined.
 These websites...
 
 Create content that can be presented in different ways (for example simpler
-layout) without losing information or structure.
+layout) without losing information or structure. 
 
 WHAT'S AN EXAMPLE?
 The links in the navigation of a website are marked up so that users can add
@@ -16,7 +16,7 @@ their own icons. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

@@ -158,7 +158,7 @@
                 "html": "1-4-4.html",
                 "plainText": "1-4-4.txt"
             },
-            "subject": "Resize text - 1.4.4"
+            "subject": "Resize Text - 1.4.4"
         },
         {
             "id": "1.4.5",
@@ -422,7 +422,7 @@
                 "html": "2-4-11.html",
                 "plainText": "2-4-11.txt"
             },
-            "subject": "Focus Appearance (Minimum) - 2.4.11"
+            "subject": "Focus Not Obscured (Minimum) - 2.4.11"
         },
         {
             "id": "2.4.12",
@@ -430,7 +430,7 @@
                 "html": "2-4-12.html",
                 "plainText": "2-4-12.txt"
             },
-            "subject": "Focus Appearance (Enhanced) - 2.4.12"
+            "subject": "Focus Not Obscured (Enhanced) - 2.4.12"
         },
         {
             "id": "2.4.13",
@@ -438,7 +438,7 @@
                 "html": "2-4-13.html",
                 "plainText": "2-4-13.txt"
             },
-            "subject": "Page Break Navigation - 2.4.13"
+            "subject": "Focus Appearance - 2.4.13"
         },
         {
             "id": "2.5.1",
@@ -601,14 +601,6 @@
             "subject": "Consistent Help - 3.2.6"
         },
         {
-            "id": "3.2.7",
-            "filenames": {
-                "html": "3-2-7.html",
-                "plainText": "3-2-7.txt"
-            },
-            "subject": "Visible Controls - 3.2.7"
-        },
-        {
             "id": "3.3.1",
             "filenames": {
                 "html": "3-3-1.html",
@@ -662,7 +654,7 @@
                 "html": "3-3-7.html",
                 "plainText": "3-3-7.txt"
             },
-            "subject": "Accessible Authentication - 3.3.7"
+            "subject": "Redundant Entry - 3.3.7"
         },
         {
             "id": "3.3.8",
@@ -670,7 +662,15 @@
                 "html": "3-3-8.html",
                 "plainText": "3-3-8.txt"
             },
-            "subject": "Redundant entry - 3.3.8"
+            "subject": "Accessible Authentication (Minimum) - 3.3.8"
+        },
+        {
+            "id": "3.3.9",
+            "filenames": {
+                "html": "3-3-9.html",
+                "plainText": "3-3-9.txt"
+            },
+            "subject": "Accessible Authentication (Enhanced) - 3.3.9"
         },
         {
             "id": "4.1.1",
@@ -678,7 +678,7 @@
                 "html": "4-1-1.html",
                 "plainText": "4-1-1.txt"
             },
-            "subject": "Parsing - 4.1.1"
+            "subject": "Parsing (Obsolete and removed) - 4.1.1"
         },
         {
             "id": "4.1.2",

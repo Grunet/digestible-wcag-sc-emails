@@ -9,17 +9,14 @@ These websites...
 Make text content readable and understandable.
 
 WHAT'S AN EXAMPLE?
- Example 1. A Web page with content in two languages 
-
 A Web page produced in Germany and written in HTML includes content in both
 German and English, but most of the content is in German. The default human
 language is identified as German (de) by the lang attribute on the html element. 
-
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

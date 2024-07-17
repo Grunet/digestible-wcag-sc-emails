@@ -13,17 +13,19 @@ programmatically determined when:
 These websites...
 
 Create content that can be presented in different ways (for example simpler
-layout) without losing information or structure.
+layout) without losing information or structure. 
 
 WHAT'S AN EXAMPLE?
-A contact form using icons
-A browser plugin to add icons inserts icons representing the person's name, home
-address, telephone number and email address to identify the input purpose
-visually. I’d like to know a little more
+A contact form auto-fills in the fields for name, street, post code, city,
+telephone number and email address from autofill values stored in the user's
+browser. Assistive technology can offer a customized way of identifying
+particular input fields, for example drawing on a set of symbols / icons that is
+familiar to the user, to communicate the purpose of the fields visually. I’d
+like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

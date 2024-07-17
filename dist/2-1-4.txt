@@ -16,18 +16,18 @@ Make all functionality available from a keyboard.
 
 WHAT'S AN EXAMPLE?
 ALTERNATE CONTROL
-A keyboard-only user is in a long issues thread. While reading the thread she
-accidentally hits the S key, which moves focus to the search bar at the top of
-the document. This causes her to lose her place and her train of thought.
+Keyboard-only users are in a long issues thread. While reading the thread they
+accidentally hit the S key, which moves focus to the search bar at the top of
+the document. This causes them to lose their place and train of thought.
 However, a mechanism is provided to allow users to change character-key
-shortcuts. She changes the shortcut to include another key so she can avoid
-future interruptions. 
+shortcuts. They change the shortcut to include another key so they can avoid
+future interruptions.
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

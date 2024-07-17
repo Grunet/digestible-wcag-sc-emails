@@ -11,16 +11,12 @@ These websites...
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
- Suggestions from a Limited Set of Values 
-
- An input field requires that a month name be entered. If the user enters "12,"
-suggestions for correction may include 
+An input field requires that a month name be entered. If the user enters "12,"
+suggestions for correction may include:
 
  * A list of the acceptable values, e.g., "Choose one of: January, February,
    March, April, May, June, July, August, September, October, November,
    December." 
- * A description of the set of values, e.g., "Please provide the name of the
-   month."
  * The conversion of the input data interpreted as a different month format,
    e.g., "Do you mean 'December'?" 
 
@@ -28,7 +24,7 @@ I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

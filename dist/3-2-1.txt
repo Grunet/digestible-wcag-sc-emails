@@ -10,20 +10,16 @@ These websites...
 Make Web pages appear and operate in predictable ways.
 
 WHAT'S AN EXAMPLE?
- Example 1: A dropdown menu 
-
 A dropdown menu on a page allows users to choose between jump destinations. If
 the person uses the keyboard to move down to a choice and activates it (with a
 spacebar or enter key) it will jump to a new page. However, if the person moves
 down to a choice and either hits the escape or the tab key to move out of the
 pulldown menu – it does not jump to a new screen as the focus shifts out of the
-dropdown menu. 
-
-I’d like to know a little more
+dropdown menu. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

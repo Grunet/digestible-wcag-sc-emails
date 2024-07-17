@@ -14,22 +14,15 @@ being conveyed.
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
- A quote 
-
-A Web page contains a quote. The quote itself is presented as italicized text,
-indented from the left margin. The name of the person to whom the quote is
-attributed is below the quote with 1.5x the line space and further indented from
-the left margin. CSS is used to position the text; set the spacing between
-lines; as well as display the text's font family, size, color and decoration. 
-
-I’d like to know a little more
+A Web site allows users to specify font settings and all images of text on the
+site are then provided based on those settings. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

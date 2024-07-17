@@ -17,21 +17,21 @@ achieve the following:
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
 EXAMPLES
-The following images show examples of single-spacing, space-and-a-half and
-double-spaced text in a paragraph. 
-
-Examples of glyphs include "A", "→" (an arrow symbol), and "さ" (a Japanese
+Example of single-spaced text. (no space between each line of text) [https://www.w3.org/WAI/WCAG22/Understanding/img/single-space.gif]
+ Example of space-and-a-half text. (a space equal to half the height of a line of text line) [https://www.w3.org/WAI/WCAG22/Understanding/img/space-and-a-half.gif]
+ Example of double-spaced text. (a space equal to the height of a line of text between each line) [https://www.w3.org/WAI/WCAG22/Understanding/img/double-space.gif]
+ Examples of glyphs include "A", "→" (an arrow symbol), and "さ" (a Japanese
 character).
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

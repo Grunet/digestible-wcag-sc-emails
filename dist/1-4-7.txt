@@ -18,7 +18,7 @@ or two seconds.
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
 My bot couldn't find any 😢. But the linked pages might still have ones it
@@ -28,7 +28,7 @@ I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

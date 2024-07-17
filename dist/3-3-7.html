@@ -218,10 +218,17 @@
             <!-- (Optional) This text will appear in the inbox preview, but not the email body. It can be used to supplement the email subject line or even summarize the email's contents. Extended text preheaders (~490 characters) seems like a better UX for anyone using a screenreader or voice-command apps like Siri to dictate the contents of an email. If this text is not included, email clients will automatically populate it using the text (including image alt text) at the start of the email's body. -->
             [New]
 
-For each step in an authentication process that relies on a cognitive function
-test, at least one other authentication method is available that does not rely
-on a cognitive function test, or a mechanism is available to assist the user in
-completing the cognitive function test.
+Information previously entered by or provided to the user that is required to be
+entered again in the same process is either:
+
+ * auto-populated, or
+ * available for the user to select.
+
+Except when:
+
+ * re-entering the information is essential,
+ * the information is required to ensure the security of the content, or
+ * previously entered information is no longer valid.
         </div>
         <!-- Visually Hidden Preheader Text : END -->
 
@@ -273,7 +280,7 @@ completing the cognitive function test.
                             </tr>
                             <tr>
                                 <td style="padding: 20px 20px 0 20px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
-                                    <h2 style="margin: 0 0 10px 0; font-family: sans-serif; font-size: 20px; line-height: 22px; color: #333333; font-weight: bold;">Accessible Authentication&#xA0;<span style="font-weight: normal; font-size: 15px;">(Level A)</span></h2>
+                                    <h2 style="margin: 0 0 10px 0; font-family: sans-serif; font-size: 20px; line-height: 22px; color: #333333; font-weight: bold;">Redundant Entry&#xA0;<span style="font-weight: normal; font-size: 15px;">(Level A)</span></h2>
                                     <p style="margin: 0 0 10px 0;"><i>On accessible websites...</i></p>
                                     <div style="margin: 0 10px 0 10px;">
                                         
@@ -283,16 +290,26 @@ completing the cognitive function test.
     
 	<p class="change">[New]</p>
     
-    <p>For each step in an authentication process that relies on a cognitive function test, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
-    
-    
+    <p>Information previously entered by or provided to the user that is required to be entered again in the same process is either:</p>
+
+    <ul>
+        <li>auto-populated, or</li>
+        <li>available for the user to select.</li>
+    </ul>
+    <p>Except when:</p> 
+    <ul>
+        <li>re-entering the information is essential,</li>
+        <li>the information is required to ensure the security of the content, or</li>
+        <li>previously entered information is no longer valid.</li>
+    </ul>
+
  
                                     </div>
                                     <p style="margin: 10px 0 10px 0;"><i>These websites...</i></p>
                                     <p style="margin: 0 10px 0 10px;">Help users avoid and correct mistakes.</p>
                                     <h3 style="margin: 15px 0 10px 0; font-family: sans-serif; font-size: 15px; line-height: 17px; color: #333333;">What&apos;s an example?</h3>
                                     <div style="margin: 0 10px 0 10px;">
-                                        A web site offers the ability to login with a 3rd party provider using the OAuth method.
+                                        A search results page pre-fills the search input with the previously entered search term in the same process.
                                     </div>
                                 </td>
                             </tr>
@@ -305,7 +322,7 @@ completing the cognitive function test.
                 </tbody></table><table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
                     <tbody><tr>
                         <td align="center" style="background-color: #ffffff;">
-                            <p style="margin: 10px;"><a id="more-info" href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html#examples" style="display: block; padding: 10px;">I&#x2019;d like to know a little more</a></p>
+                            <p style="margin: 10px;"><a id="more-info" href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html#examples" style="display: block; padding: 10px;">I&#x2019;d like to know a little more</a></p>
                         </td>
                     </tr>
                 </tbody></table>
@@ -329,7 +346,7 @@ completing the cognitive function test.
                         <!-- <webversion style="color: #cccccc; text-decoration: underline; font-weight: bold;">View as a Web Page</webversion>
                         <br><br> -->
                         <!-- The raw URLs are broken up with hidden <br /> tags here to prevent email clients from automatically turning them into anchor tags (which on top of not being what's intended, have poor contrast against the background) See https://stackoverflow.com/q/7625880/11866924 for a discussion of alternative hacks-->
-						<p style="padding-bottom: 15px; margin: 0;"><em>Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 21 May 2021 (https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/2021/WD-WCAG22-20210521/, Latest version at https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/WCAG22/)</em></p>
+						<p style="padding-bottom: 15px; margin: 0;"><em>Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium Recommendation 05 October 2023 (https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/2023/REC-WCAG22-20231005/, Latest version at https:<br style="display: none;">//www.w3<br style="display: none;">.org/TR/WCAG22/)</em></p>
                         <ul style="list-style-type: none; margin: 0; padding: 0;">
                             <li><a id="subscribe" href="https://dwcag.org/#sign-up-section" style="color: #ffa562; display: block; padding: 15px; margin: auto;">Subscribe</a></li>
                             <li><a id="contact-us" href="https://dwcag.org/#feedback-section" style="color: #ffa562; display: block; padding: 15px; margin: auto;">Share Feedback</a></li>

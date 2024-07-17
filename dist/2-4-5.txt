@@ -10,17 +10,15 @@ These websites...
 Provide ways to help users navigate, find content, and determine where they are.
 
 WHAT'S AN EXAMPLE?
- Where content is a result of a process or task - Search engine results. 
-
-A search engine provides the search results based on user input. There is no
-other way to locate the search results except to perform the search process
-itself. 
-
-I’d like to know a little more
+A local hair salon has created a Web site to promote its services. The site
+contains only five Web pages. There are links on each Web page to sequentially
+move forward or backward through the Web pages. In addition, each Web page
+contains a list of links to reach each of the other Web pages. I’d like to know
+a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

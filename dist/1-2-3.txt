@@ -11,8 +11,6 @@ These websites...
 Provide alternatives for time-based media.
 
 WHAT'S AN EXAMPLE?
- A movie with audio description. 
-
  Describer: A title, "Teaching Evolution Case Studies. Bonnie Chen." A teacher
 shows photographs of birds with long, thin beaks. 
 
@@ -26,16 +24,16 @@ beak like this."
  Describer: The teacher holds two of the sticks to her mouth making the shape of
 a beak. 
 
-Transcript of audio based on the first few minutes of " Teaching Evolution Case
+Transcript of audio based on the first few minutes of "Teaching Evolution Case
 Studies, Bonnie Chen
-[http://www.pbs.org/wgbh/evolution/educators/teachstuds/tvideos.html]"
-(copyright WGBH and Clear Blue Sky Productions, Inc.) 
+[https://www.pbs.org/wgbh/evolution/educators/teachstuds/tvideos.html]"
+(copyright WGBH and Clear Blue Sky Productions, Inc.)
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

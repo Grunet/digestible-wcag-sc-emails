@@ -10,14 +10,16 @@ These websites...
 Provide alternatives for time-based media.
 
 WHAT'S AN EXAMPLE?
-Example 2. The same announcement described in example 1 is also Webcast to
-remote employees. Since there is only one display available for this, the sign
-language interpreter is shown in the corner of the display. I’d like to know a
-little more
+Example 1. A corporation is making an important announcement to all of its
+employees. The announcement will be held in the main headquarters and later
+streamed to the Web. A sign language interpreter is provided at the announcement
+location for the employees that are present in the meeting room. For the Web
+version of the announcement, the sign language interpreter is shown/superimposed
+in the corner of the display. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

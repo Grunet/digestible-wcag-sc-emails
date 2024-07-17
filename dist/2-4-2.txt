@@ -9,16 +9,20 @@ These websites...
 Provide ways to help users navigate, find content, and determine where they are.
 
 WHAT'S AN EXAMPLE?
- An HTML Web page 
+The title of Understanding WCAG 2.1 [./]is "Understanding WCAG 2.1."
 
-The descriptive title of an HTML Web page is marked up with the <title> element
-so that it will be displayed in the title bar of the user agent. 
+ * The introduction page has the title "Introduction to Understanding WCAG 2.0."
+ * Major sections of the document are pages titled "Understanding Guideline X"
+   and "Understanding Success Criterion X." 
+ * Appendix A has the title "Glossary."
+ * Appendix B has the title "Acknowledgements."
+ * Appendix C has the title "References."
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

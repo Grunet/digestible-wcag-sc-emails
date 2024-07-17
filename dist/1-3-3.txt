@@ -9,25 +9,18 @@ location, orientation, or sound.
 These websites...
 
 Create content that can be presented in different ways (for example simpler
-layout) without losing information or structure.
+layout) without losing information or structure. 
 
 WHAT'S AN EXAMPLE?
- Example 2: An online multi-page survey 
-
-An online multi-page survey uses a link implemented as a green arrow icon placed
-in the lower right hand corner of the content to move from one survey page to
-the next. The arrow is clearly labeled with "Next" and the instructions state,
-"To move to the next section of the survey, select the green arrow icon labeled
-'Next' in the lower right corner below the last survey question." The
-instruction uses positioning and color to help identify the icon; the
-instruction does not rely on these sensory characteristics since it also refers
-to the label, so it passes this criterion. 
-
-I’d like to know a little more
+A table presents a list of times across the top row and a list of events in the
+first vertical column and instructions are provided under the table: "Events
+marked with a blue diamond are played on field A and events marked with a green
+circle are played on field B." The instructions rely on color and shape only and
+result in a failure of this criterion. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

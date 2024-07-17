@@ -8,22 +8,18 @@ an action, prompting a response, or distinguishing a visual element.
 These websites...
 
 Make it easier for users to see and hear content including separating foreground
-from background.
+from background. 
 
 WHAT'S AN EXAMPLE?
- An examination. 
-
-Students view an SVG image of a chemical compound and identify the chemical
-elements present based both on the colors used, as well as numbers next to each
-element. A legend shows the color and number for each type of element. Sighted
-users who cannot perceive all the color differences can still understand the
-image by relying on the numbers. 
-
-I’d like to know a little more
+A form contains both required and optional fields. Instructions at the top of
+the form explain that required fields are labeled with red text and also with an
+icon. Users who cannot perceive the difference between the optional field labels
+and the red labels for the required fields will still be able to see the icon
+next to the red labels. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

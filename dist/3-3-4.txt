@@ -15,20 +15,16 @@ information before finalizing the submission. These websites...
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
- Stock sale: 
-
 A financial services Web site lets users buy and sell stock online. When a user
 submits an order to buy or sell stock, the system checks to see whether or not
 the market is open. If it is after hours, the user is alerted that the
 transaction will be an after-hours transaction, is told about the risks of
 trading outside of regular market hours, and given the opportunity to cancel or
-confirm the order. 
-
-I’d like to know a little more
+confirm the order. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

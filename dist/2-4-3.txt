@@ -14,13 +14,13 @@ WHAT'S AN EXAMPLE?
 An HTML Web page is created with the left hand navigation occurring in the HTML
 after the main body content, and styled with CSS to appear on the left hand side
 of the page. This is done to allow focus to move to the main body content first
-without requiring tabIndex attributes or JavaScript. 
+without requiring tabindex attributes or JavaScript. 
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]

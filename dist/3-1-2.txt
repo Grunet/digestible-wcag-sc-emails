@@ -15,15 +15,23 @@ WHAT'S AN EXAMPLE?
  Alternative language links 
 
 An HTML Web page includes links to versions of the page in other languages
-(e.g., Deutsch, Français, Nederlands, Castellano, etc.). The text of each link
-is the name of the language, in that language. The language of each link is
+(e.g., Deutsch, Français, Nederlands, Catalan, etc.). The text of each link is
+the name of the language, in that language. The language of each link is
 indicated via a lang attribute. 
+
+<ul>
+  <li><a href="..." lang="de">Deutsch</a></li>
+  <li><a href="..." lang="it">Italiano</a></li>
+  <li><a href="..." lang="fr">Français</a></li>
+  ...
+  <li><a href="..." lang="zh-hant">繁體中文</a></li>
+</ul>
 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium
-Recommendation 21 May 2021 (https://www.w3.org/TR/2021/WD-WCAG22-20210521/,
+Recommendation 05 October 2023 (https://www.w3.org/TR/2023/REC-WCAG22-20231005/,
 Latest version at https://www.w3.org/TR/WCAG22/)
 
  * Subscribe [https://dwcag.org/#sign-up-section]
