@@ -16,7 +16,6 @@ Make it easier for users to operate functionality through various inputs beyond
 keyboard.
 
 WHAT'S AN EXAMPLE?
-Example 3: Anchor Link
 The target is an in-page link and the target is less than 44 by 44 CSS pixels. 
 I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html#examples]

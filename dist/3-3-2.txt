@@ -9,8 +9,8 @@ These websites...
 Help users avoid and correct mistakes.
 
 WHAT'S AN EXAMPLE?
-A field for entering a date contains initial text which indicates the correct
-format for the date. I’d like to know a little more
+A field for entering a date has text instructions to indicate the correct format
+for the date. I’d like to know a little more
 [https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html#examples]
 
 Web Content Accessibility Guidelines 2.2, W3C World Wide Web Consortium

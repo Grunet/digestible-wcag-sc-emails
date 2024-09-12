@@ -9,11 +9,14 @@ These websites...
 Provide ways to help users navigate, find content, and determine where they are.
 
 WHAT'S AN EXAMPLE?
-The title of Understanding WCAG 2.1 [./]is "Understanding WCAG 2.1."
+The title of Understanding WCAG 2.2
+[https://www.w3.org/WAI/WCAG22/Understanding/] is "Understanding WCAG 2.2".
 
- * The introduction page has the title "Introduction to Understanding WCAG 2.0."
- * Major sections of the document are pages titled "Understanding Guideline X"
-   and "Understanding Success Criterion X." 
+ * The Introduction to Understanding WCAG
+   [https://www.w3.org/WAI/WCAG22/Understanding/intro] page has the title
+   "Introduction to Understanding WCAG".
+ * Major sections of the document collection are pages titled "Understanding
+   Guideline X" and "Understanding Success Criterion X."
  * Appendix A has the title "Glossary."
  * Appendix B has the title "Acknowledgements."
  * Appendix C has the title "References."
